@@ -1,5 +1,5 @@
 Item Name,Item Type,Description,Effect,Target,Price,Rarity
-Potion,Consumable,Heals a Pokemon by 20 HP,heal:20/level_up:1,choose_own_pokemon,100,1
+Potion,Consumable,Heals a Pokemon by 20 HP,heal:20/level_up:1,choose_own_pokemon,1000,1
 Super Potion,Consumable,Heals a Pokemon by 50 HP,heal:50,choose_own_pokemon,100,3
 Revive,Consumable,Revives a fainted Pokemon,revive:1,choose_own_pokemon,100,1
 Max Revive,Consumable,Revives a fainted Pokemon to full HP,max_revive:1,choose_own_pokemon,1000,8
