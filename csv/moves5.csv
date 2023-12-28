@@ -1,5 +1,5 @@
 Move Name,Type,Power,Accuracy,PP,Effect
-Pound,Normal,40,100,35,damage:10
+Pound,Normal,140,100,35,damage:10
 Karate Chop,Normal,50,100,25,damage:10
 Double Slap,Normal,15,85,10,damage:10
 Comet Punch,Normal,18,85,15,damage:10
