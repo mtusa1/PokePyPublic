@@ -1,0 +1,10 @@
+sub_region,region,items,exitNorth,exitEast,exitSouth,exitWest
+Pallet Town,Kanto,Potion:90/Super Potion:10,
+Cherrygrove City,Johto,Potion:90/Super Potion:10,
+Fortree City,Hoenn,Potion:90/Super Potion:10,
+Twinleaf Town,Sinnoh,Potion:90/Super Potion:10,
+White Forest,Unova,Potion:90/Super Potion:10,
+Lumiose City,Kalos,Potion:90/Super Potion:10,
+test2,Dungeon World,Potion:10/Super Potion:90,test3,test4,
+test3,Dungeon World,Potion:90/Super Potion:10,,test5,test2,
+test4,Dungeon World,Potion:90/Super Potion:10,test5,,,test2

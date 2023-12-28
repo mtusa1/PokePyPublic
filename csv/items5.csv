@@ -1,0 +1,37 @@
+Item Name,Item Type,Description,Effect,Target,Price,Rarity
+Potion,Consumable,Heals a Pokemon by 20 HP,heal:20/level_up:1,choose_own_pokemon,100,1
+Super Potion,Consumable,Heals a Pokemon by 50 HP,heal:50,choose_own_pokemon,100,3
+Revive,Consumable,Revives a fainted Pokemon,revive:1,choose_own_pokemon,100,1
+Max Revive,Consumable,Revives a fainted Pokemon to full HP,max_revive:1,choose_own_pokemon,1000,8
+Fire Stone,Consumable,Evolves certain species of Pokemon,evolve:1,choose_own_pokemon,100,1
+Water Stone,Consumable,Evolves certain species of Pokemon,evolve:1,choose_own_pokemon,100,1
+Thunder Stone,Consumable,Evolves certain species of Pokemon,evolve:1,choose_own_pokemon,100,1
+Leaf Stone,Consumable,Evolves certain species of Pokemon,evolve:1,choose_own_pokemon,100,1
+Moon Stone,Consumable,Evolves certain species of Pokemon,evolve:1,choose_own_pokemon,100,1
+PP Up,Consumable,Increases the maximum PP of a selected move by 20%,increase_pp:0.2,choose_own_pokemon,100,5
+HP Up,Consumable,Increases the maximum HP of a selected Pokemon by 10,increase_hp:10,choose_own_pokemon,100,8
+X Accuracy,Consumable,Increases the accuracy of a selected Pokemon's moves by 10% for the duration of the battle,increase_accuracy:0.1,choose_own_pokemon,100,1
+X Attack,Consumable,Increases the attack of a selected Pokemon by 10% for the duration of the battle,increase_attack:0.1,choose_own_pokemon,100,1
+X Defense,Consumable,Increases the defense of a selected Pokemon by 10% for the duration of the battle,increase_defense:0.1,choose_own_pokemon,100,1
+Ether,Consumable,Restores the PP of a selected move by 10,restore_pp:10,choose_own_pokemon,100,1
+Burn Heal,Consumable,Cures a Pokemon of a burn,cure_burn:1,choose_own_pokemon,100,1
+Paralyze Heal,Consumable,Cures a Pokemon of paralysis,cure_paralysis:1,choose_own_pokemon,100,1
+Awakening,Consumable,Wakes up a sleeping Pokemon,cure_sleep:1,choose_own_pokemon,100,1
+Antidote,Consumable,Cures a Pokemon of poison,cure_poison:1,choose_own_pokemon,100,1
+Rare Candy,Consumable,Increases the level of a selected Pokemon by 1,level_up:1,choose_own_pokemon,2,10
+Pokeball,Consumable,Captures a wild Pokemon,capture:1,current_opp_pokemon,100,1
+Dire Hit,Consumable,Increases the critical hit ratio of a Pokémon during a battle.,increase_critical_hit_ratio:1,choose_own_pokemon,650,1
+Guard Spec.,Consumable,Prevents the stats of a Pokémon from being lowered for five turns.,prevent_stat_lower:1,choose_own_pokemon,700,2
+X Speed,Consumable,Increases the speed of a Pokémon for the duration of the battle.,increase_speed:0.1,choose_own_pokemon,350,1
+Full Restore,Consumable,Restores a Pokemon's HP to full and cures all status conditions,full_restore:1,choose_own_pokemon,3000,10
+Max Potion,Consumable,Restores a Pokemon's HP to full,max_heal:1,choose_own_pokemon,2500,8
+Max Revive,Consumable,Revives a fainted Pokemon to full HP,max_revive:1,choose_own_pokemon,4000,10
+Elixir,Consumable,Restores the PP of all moves by 10,restore_pp_all:10,choose_own_pokemon,500,5
+Max Elixir,Consumable,Restores the PP of all moves to full,restore_pp_all_max:1,choose_own_pokemon,1000,10
+TM01 (Mega Punch),TM,Teaches a Pokemon Mega Punch,teach_move:1,choose_own_pokemon,3000,5
+TM02 (Pay Day),TM,Teaches a Pokemon Pay Day,teach_move:1,choose_own_pokemon,3000,5
+Acid Splash,Spell,Casts the spell Acid Splash,cast_spell:1,choose_opp_pokemon,100,1
+Blade Ward,Spell,Casts the spell Blade Ward,cast_spell:2,opp_trainer,100,1
+Booming Blade,Spell,Casts the spell Booming Blade,cast_spell:1,human_trainer,100,1
+Chill Touch,Spell,Casts the spell Chill Touch,cast_spell:1,all_opp_pokemon,100,1
+Control Flames,Spell,Casts the spell Control Flames,cast_spell:1,all_own_pokemon,100,1

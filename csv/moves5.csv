@@ -1,0 +1,906 @@
+Move Name,Type,Power,Accuracy,PP,Effect
+Pound,Normal,40,100,35,damage:10
+Karate Chop,Normal,50,100,25,damage:10
+Double Slap,Normal,15,85,10,damage:10
+Comet Punch,Normal,18,85,15,damage:10
+Mega Punch,Normal,80,85,20,damage:10
+Pay Day,Normal,40,100,20,damage:10
+Fire Punch,Normal,75,100,15,damage:10
+Ice Punch,Normal,75,100,15,damage:10
+Thunder Punch,Normal,75,100,15,damage:10
+Scratch,Normal,40,100,35,damage:10
+Vise Grip,Normal,55,100,30,damage:10
+Guillotine,Normal,66,30,5,damage:10
+Razor Wind,Normal,80,100,10,damage:10
+Swords Dance,Normal,66,66,20,status:10
+Cut,Normal,50,95,30,damage:10
+Gust,Normal,40,100,35,damage:10
+Wing Attack,Normal,60,100,35,damage:10
+Whirlwind,Normal,66,66,20,status:10
+Fly,Normal,90,95,15,damage:10
+Bind,Normal,15,85,20,damage:10
+Slam,Normal,80,75,20,damage:10
+Vine Whip,Normal,45,100,25,damage:10
+Stomp,Normal,65,100,20,damage:10
+Double Kick,Normal,30,100,30,damage:10
+Mega Kick,Normal,120,75,5,damage:10
+Jump Kick,Normal,100,95,10,damage:10
+Rolling Kick,Normal,60,85,15,damage:10
+Sand Attack,Normal,66,100,15,status:10
+Headbutt,Normal,70,100,15,damage:10
+Horn Attack,Normal,65,100,25,damage:10
+Fury Attack,Normal,15,85,20,damage:10
+Horn Drill,Normal,66,30,5,damage:10
+Tackle,Normal,40,100,35,damage:10
+Body Slam,Normal,85,100,15,damage:10
+Wrap,Normal,15,90,20,damage:10
+Take Down,Normal,90,85,20,damage:10
+Thrash,Normal,120,100,10,damage:10
+Double-Edge,Normal,120,100,15,damage:10
+Tail Whip,Normal,66,100,30,status:10
+Poison Sting,Normal,15,100,35,damage:10
+Twineedle,Normal,25,100,20,damage:10
+Pin Missile,Normal,25,95,20,damage:10
+Leer,Normal,66,100,30,status:10
+Bite,Normal,60,100,25,damage:10
+Growl,Normal,66,100,40,status:10
+Roar,Normal,66,66,20,status:10
+Sing,Normal,66,55,15,status:10
+Supersonic,Normal,66,55,20,status:10
+Sonic Boom,Normal,66,90,20,damage:10
+Disable,Normal,66,100,20,status:10
+Acid,Normal,40,100,30,damage:10
+Ember,Normal,40,100,25,damage:10
+Flamethrower,Normal,90,100,15,damage:10
+Mist,Normal,66,66,30,status:10
+Water Gun,Normal,40,100,25,damage:10
+Hydro Pump,Normal,110,80,5,damage:10
+Surf,Normal,90,100,15,damage:10
+Ice Beam,Normal,90,100,10,damage:10
+Blizzard,Normal,110,70,5,damage:10
+Psybeam,Normal,65,100,20,damage:10
+Bubble Beam,Normal,65,100,20,damage:10
+Aurora Beam,Normal,65,100,20,damage:10
+Hyper Beam,Normal,150,90,5,damage:10
+Peck,Normal,35,100,35,damage:10
+Drill Peck,Normal,80,100,20,damage:10
+Submission,Normal,80,80,20,damage:10
+Low Kick,Normal,66,100,20,damage:10
+Counter,Normal,66,100,20,damage:10
+Seismic Toss,Normal,66,100,20,damage:10
+Strength,Normal,80,100,15,damage:10
+Absorb,Normal,20,100,25,damage:10
+Mega Drain,Normal,40,100,15,damage:10
+Leech Seed,Normal,66,90,10,status:10
+Growth,Normal,66,66,20,status:10
+Razor Leaf,Normal,55,95,25,damage:10
+Solar Beam,Normal,120,100,10,damage:10
+Poison Powder,Normal,66,75,35,status:10
+Stun Spore,Normal,66,75,30,status:10
+Sleep Powder,Normal,66,75,15,status:10
+Petal Dance,Normal,120,100,10,damage:10
+String Shot,Normal,66,95,40,status:10
+Dragon Rage,Normal,66,100,10,damage:10
+Fire Spin,Normal,35,85,15,damage:10
+Thunder Shock,Normal,40,100,30,damage:10
+Thunderbolt,Normal,90,100,15,damage:10
+Thunder Wave,Normal,66,90,20,status:10
+Thunder,Normal,110,70,10,damage:10
+Rock Throw,Normal,50,90,15,damage:10
+Earthquake,Normal,100,100,10,damage:10
+Fissure,Normal,66,30,5,damage:10
+Dig,Normal,80,100,10,damage:10
+Toxic,Normal,66,90,10,status:10
+Confusion,Normal,50,100,25,damage:10
+Psychic,Normal,90,100,10,damage:10
+Hypnosis,Normal,66,60,20,status:10
+Meditate,Normal,66,66,40,status:10
+Agility,Normal,66,66,30,status:10
+Quick Attack,Normal,40,100,30,damage:10
+Rage,Normal,20,100,20,damage:10
+Teleport,Normal,66,66,20,status:10
+Night Shade,Normal,66,100,15,damage:10
+Mimic,Normal,66,66,10,status:10
+Screech,Normal,66,85,40,status:10
+Double Team,Normal,66,66,15,status:10
+Recover,Normal,66,66,5,status:10
+Harden,Normal,66,66,30,status:10
+Minimize,Normal,66,66,10,status:10
+Smokescreen,Normal,66,100,20,status:10
+Confuse Ray,Normal,66,100,10,status:10
+Withdraw,Normal,66,66,40,status:10
+Defense Curl,Normal,66,66,40,status:10
+Barrier,Normal,66,66,20,status:10
+Light Screen,Normal,66,66,30,status:10
+Haze,Normal,66,66,30,status:10
+Reflect,Normal,66,66,20,status:10
+Focus Energy,Normal,66,66,30,status:10
+Bide,Normal,66,66,10,damage:10
+Metronome,Normal,66,66,10,status:10
+Mirror Move,Normal,66,66,20,status:10
+Self-Destruct,Normal,200,100,5,damage:10
+Egg Bomb,Normal,100,75,10,damage:10
+Lick,Normal,30,100,30,damage:10
+Smog,Normal,30,70,20,damage:10
+Sludge,Normal,65,100,20,damage:10
+Bone Club,Normal,65,85,20,damage:10
+Fire Blast,Normal,110,85,5,damage:10
+Waterfall,Normal,80,100,15,damage:10
+Clamp,Normal,35,85,15,damage:10
+Swift,Normal,60,66,20,damage:10
+Skull Bash,Normal,130,100,10,damage:10
+Spike Cannon,Normal,20,100,15,damage:10
+Constrict,Normal,10,100,35,damage:10
+Amnesia,Normal,66,66,20,status:10
+Kinesis,Normal,66,80,15,status:10
+Soft-Boiled,Normal,66,66,5,status:10
+High Jump Kick,Normal,130,90,10,damage:10
+Glare,Normal,66,100,30,status:10
+Dream Eater,Normal,100,100,15,damage:10
+Poison Gas,Normal,66,90,40,status:10
+Barrage,Normal,15,85,20,damage:10
+Leech Life,Normal,80,100,10,damage:10
+Lovely Kiss,Normal,66,75,10,status:10
+Sky Attack,Normal,140,90,5,damage:10
+Transform,Normal,66,66,10,status:10
+Bubble,Normal,40,100,30,damage:10
+Dizzy Punch,Normal,70,100,10,damage:10
+Spore,Normal,66,100,15,status:10
+Flash,Normal,66,100,20,status:10
+Psywave,Normal,66,100,15,damage:10
+Splash,Normal,66,66,40,status:10
+Acid Armor,Normal,66,66,20,status:10
+Crabhammer,Normal,100,90,10,damage:10
+Explosion,Normal,250,100,5,damage:10
+Fury Swipes,Normal,18,80,15,damage:10
+Bonemerang,Normal,50,90,10,damage:10
+Rest,Normal,66,66,5,status:10
+Rock Slide,Normal,75,90,10,damage:10
+Hyper Fang,Normal,80,90,15,damage:10
+Sharpen,Normal,66,66,30,status:10
+Conversion,Normal,66,66,30,status:10
+Tri Attack,Normal,80,100,10,damage:10
+Super Fang,Normal,66,90,10,damage:10
+Slash,Normal,70,100,20,damage:10
+Substitute,Normal,66,66,10,status:10
+Struggle,Normal,50,66,1,damage:10
+Sketch,Normal,66,66,1,status:10
+Triple Kick,Normal,10,90,10,damage:10
+Thief,Normal,60,100,25,damage:10
+Spider Web,Normal,66,66,10,status:10
+Mind Reader,Normal,66,66,5,status:10
+Nightmare,Normal,66,100,15,status:10
+Flame Wheel,Normal,60,100,25,damage:10
+Snore,Normal,50,100,15,damage:10
+Curse,Normal,66,66,10,status:10
+Flail,Normal,66,100,15,damage:10
+Conversion 2,Normal,66,66,30,status:10
+Aeroblast,Normal,100,95,5,damage:10
+Cotton Spore,Normal,66,100,40,status:10
+Reversal,Normal,66,100,15,damage:10
+Spite,Normal,66,100,10,status:10
+Powder Snow,Normal,40,100,25,damage:10
+Protect,Normal,66,66,10,status:10
+Mach Punch,Normal,40,100,30,damage:10
+Scary Face,Normal,66,100,10,status:10
+Feint Attack,Normal,60,66,20,damage:10
+Sweet Kiss,Normal,66,75,10,status:10
+Belly Drum,Normal,66,66,10,status:10
+Sludge Bomb,Normal,90,100,10,damage:10
+Mud-Slap,Normal,20,100,10,damage:10
+Octazooka,Normal,65,85,10,damage:10
+Spikes,Normal,66,66,20,status:10
+Zap Cannon,Normal,120,50,5,damage:10
+Foresight,Normal,66,66,40,status:10
+Destiny Bond,Normal,66,66,5,status:10
+Perish Song,Normal,66,66,5,status:10
+Icy Wind,Normal,55,95,15,damage:10
+Detect,Normal,66,66,5,status:10
+Bone Rush,Normal,25,90,10,damage:10
+Lock-On,Normal,66,66,5,status:10
+Outrage,Normal,120,100,10,damage:10
+Sandstorm,Normal,66,66,10,status:10
+Giga Drain,Normal,75,100,10,damage:10
+Endure,Normal,66,66,10,status:10
+Charm,Normal,66,100,20,status:10
+Rollout,Normal,30,90,20,damage:10
+False Swipe,Normal,40,100,40,damage:10
+Swagger,Normal,66,85,15,status:10
+Milk Drink,Normal,66,66,5,status:10
+Spark,Normal,65,100,20,damage:10
+Fury Cutter,Normal,40,95,20,damage:10
+Steel Wing,Normal,70,90,25,damage:10
+Mean Look,Normal,66,66,5,status:10
+Attract,Normal,66,100,15,status:10
+Sleep Talk,Normal,66,66,10,status:10
+Heal Bell,Normal,66,66,5,status:10
+Return,Normal,66,100,20,damage:10
+Present,Normal,66,90,15,damage:10
+Frustration,Normal,66,100,20,damage:10
+Safeguard,Normal,66,66,25,status:10
+Pain Split,Normal,66,66,20,status:10
+Sacred Fire,Normal,100,95,5,damage:10
+Magnitude,Normal,66,100,30,damage:10
+Dynamic Punch,Normal,100,50,5,damage:10
+Megahorn,Normal,120,85,10,damage:10
+Dragon Breath,Normal,60,100,20,damage:10
+Baton Pass,Normal,66,66,40,status:10
+Encore,Normal,66,100,5,status:10
+Pursuit,Normal,40,100,20,damage:10
+Rapid Spin,Normal,50,100,40,damage:10
+Sweet Scent,Normal,66,100,20,status:10
+Iron Tail,Normal,100,75,15,damage:10
+Metal Claw,Normal,50,95,35,damage:10
+Vital Throw,Normal,70,66,10,damage:10
+Morning Sun,Normal,66,66,5,status:10
+Synthesis,Normal,66,66,5,status:10
+Moonlight,Normal,66,66,5,status:10
+Hidden Power,Normal,60,100,15,damage:10
+Cross Chop,Normal,100,80,5,damage:10
+Twister,Normal,40,100,20,damage:10
+Rain Dance,Normal,66,66,5,status:10
+Sunny Day,Normal,66,66,5,status:10
+Crunch,Normal,80,100,15,damage:10
+Mirror Coat,Normal,66,100,20,damage:10
+Psych Up,Normal,66,66,10,status:10
+Extreme Speed,Normal,80,100,5,damage:10
+Ancient Power,Normal,60,100,5,damage:10
+Shadow Ball,Normal,80,100,15,damage:10
+Future Sight,Normal,120,100,10,damage:10
+Rock Smash,Normal,40,100,15,damage:10
+Whirlpool,Normal,35,85,15,damage:10
+Beat Up,Normal,66,100,10,damage:10
+Fake Out,Normal,40,100,10,damage:10
+Uproar,Normal,90,100,10,damage:10
+Stockpile,Normal,66,66,20,status:10
+Spit Up,Normal,66,100,10,damage:10
+Swallow,Normal,66,66,10,status:10
+Heat Wave,Normal,95,90,10,damage:10
+Hail,Normal,66,66,10,status:10
+Torment,Normal,66,100,15,status:10
+Flatter,Normal,66,100,15,status:10
+Will-O-Wisp,Normal,66,85,15,status:10
+Memento,Normal,66,100,10,status:10
+Facade,Normal,70,100,20,damage:10
+Focus Punch,Normal,150,100,20,damage:10
+Smelling Salts,Normal,70,100,10,damage:10
+Follow Me,Normal,66,66,20,status:10
+Nature Power,Normal,66,66,20,status:10
+Charge,Normal,66,66,20,status:10
+Taunt,Normal,66,100,20,status:10
+Helping Hand,Normal,66,66,20,status:10
+Trick,Normal,66,100,10,status:10
+Role Play,Normal,66,66,10,status:10
+Wish,Normal,66,66,10,status:10
+Assist,Normal,66,66,20,status:10
+Ingrain,Normal,66,66,20,status:10
+Superpower,Normal,120,100,5,damage:10
+Magic Coat,Normal,66,66,15,status:10
+Recycle,Normal,66,66,10,status:10
+Revenge,Normal,60,100,10,damage:10
+Brick Break,Normal,75,100,15,damage:10
+Yawn,Normal,66,66,10,status:10
+Knock Off,Normal,65,100,20,damage:10
+Endeavor,Normal,66,100,5,damage:10
+Eruption,Normal,150,100,5,damage:10
+Skill Swap,Normal,66,66,10,status:10
+Imprison,Normal,66,66,10,status:10
+Refresh,Normal,66,66,20,status:10
+Grudge,Normal,66,66,5,status:10
+Snatch,Normal,66,66,10,status:10
+Secret Power,Normal,70,100,20,damage:10
+Dive,Normal,80,100,10,damage:10
+Arm Thrust,Normal,15,100,20,damage:10
+Camouflage,Normal,66,66,20,status:10
+Tail Glow,Normal,66,66,20,status:10
+Luster Purge,Normal,70,100,5,damage:10
+Mist Ball,Normal,70,100,5,damage:10
+Feather Dance,Normal,66,100,15,status:10
+Teeter Dance,Normal,66,100,20,status:10
+Blaze Kick,Normal,85,90,10,damage:10
+Mud Sport,Normal,66,66,15,status:10
+Ice Ball,Normal,30,90,20,damage:10
+Needle Arm,Normal,60,100,15,damage:10
+Slack Off,Normal,66,66,5,status:10
+Hyper Voice,Normal,90,100,10,damage:10
+Poison Fang,Normal,50,100,15,damage:10
+Crush Claw,Normal,75,95,10,damage:10
+Blast Burn,Normal,150,90,5,damage:10
+Hydro Cannon,Normal,150,90,5,damage:10
+Meteor Mash,Normal,90,90,10,damage:10
+Astonish,Normal,30,100,15,damage:10
+Weather Ball,Normal,50,100,10,damage:10
+Aromatherapy,Normal,66,66,5,status:10
+Fake Tears,Normal,66,100,20,status:10
+Air Cutter,Normal,60,95,25,damage:10
+Overheat,Normal,130,90,5,damage:10
+Odor Sleuth,Normal,66,66,40,status:10
+Rock Tomb,Normal,60,95,15,damage:10
+Silver Wind,Normal,60,100,5,damage:10
+Metal Sound,Normal,66,85,40,status:10
+Grass Whistle,Normal,66,55,15,status:10
+Tickle,Normal,66,100,20,status:10
+Cosmic Power,Normal,66,66,20,status:10
+Water Spout,Normal,150,100,5,damage:10
+Signal Beam,Normal,75,100,15,damage:10
+Shadow Punch,Normal,60,66,20,damage:10
+Extrasensory,Normal,80,100,20,damage:10
+Sky Uppercut,Normal,85,90,15,damage:10
+Sand Tomb,Normal,35,85,15,damage:10
+Sheer Cold,Normal,66,30,5,damage:10
+Muddy Water,Normal,90,85,10,damage:10
+Bullet Seed,Normal,25,100,30,damage:10
+Aerial Ace,Normal,60,66,20,damage:10
+Icicle Spear,Normal,25,100,30,damage:10
+Iron Defense,Normal,66,66,15,status:10
+Block,Normal,66,66,5,status:10
+Howl,Normal,66,66,40,status:10
+Dragon Claw,Normal,80,100,15,damage:10
+Frenzy Plant,Normal,150,90,5,damage:10
+Bulk Up,Normal,66,66,20,status:10
+Bounce,Normal,85,85,5,damage:10
+Mud Shot,Normal,55,95,15,damage:10
+Poison Tail,Normal,50,100,25,damage:10
+Covet,Normal,60,100,25,damage:10
+Volt Tackle,Normal,120,100,15,damage:10
+Magical Leaf,Normal,60,66,20,damage:10
+Water Sport,Normal,66,66,15,status:10
+Calm Mind,Normal,66,66,20,status:10
+Leaf Blade,Normal,90,100,15,damage:10
+Dragon Dance,Normal,66,66,20,status:10
+Rock Blast,Normal,25,90,10,damage:10
+Shock Wave,Normal,60,66,20,damage:10
+Water Pulse,Normal,60,100,20,damage:10
+Doom Desire,Normal,140,100,5,damage:10
+Psycho Boost,Normal,140,90,5,damage:10
+Roost,Normal,66,66,5,status:10
+Gravity,Normal,66,66,5,status:10
+Miracle Eye,Normal,66,66,40,status:10
+Wake-Up Slap,Normal,70,100,10,damage:10
+Hammer Arm,Normal,100,90,10,damage:10
+Gyro Ball,Normal,66,100,5,damage:10
+Healing Wish,Normal,66,66,10,status:10
+Brine,Normal,65,100,10,damage:10
+Natural Gift,Normal,66,100,15,damage:10
+Feint,Normal,30,100,10,damage:10
+Pluck,Normal,60,100,20,damage:10
+Tailwind,Normal,66,66,15,status:10
+Acupressure,Normal,66,66,30,status:10
+Metal Burst,Normal,66,100,10,damage:10
+U-turn,Normal,70,100,20,damage:10
+Close Combat,Normal,120,100,5,damage:10
+Payback,Normal,50,100,10,damage:10
+Assurance,Normal,60,100,10,damage:10
+Embargo,Normal,66,100,15,status:10
+Fling,Normal,66,100,10,damage:10
+Psycho Shift,Normal,66,100,10,status:10
+Trump Card,Normal,66,66,5,damage:10
+Heal Block,Normal,66,100,15,status:10
+Wring Out,Normal,66,100,5,damage:10
+Power Trick,Normal,66,66,10,status:10
+Gastro Acid,Normal,66,100,10,status:10
+Lucky Chant,Normal,66,66,30,status:10
+Me First,Normal,66,66,20,status:10
+Copycat,Normal,66,66,20,status:10
+Power Swap,Normal,66,66,10,status:10
+Guard Swap,Normal,66,66,10,status:10
+Punishment,Normal,66,100,5,damage:10
+Last Resort,Normal,140,100,5,damage:10
+Worry Seed,Normal,66,100,10,status:10
+Sucker Punch,Normal,70,100,5,damage:10
+Toxic Spikes,Normal,66,66,20,status:10
+Heart Swap,Normal,66,66,10,status:10
+Aqua Ring,Normal,66,66,20,status:10
+Magnet Rise,Normal,66,66,10,status:10
+Flare Blitz,Normal,120,100,15,damage:10
+Force Palm,Normal,60,100,10,damage:10
+Aura Sphere,Normal,80,66,20,damage:10
+Rock Polish,Normal,66,66,20,status:10
+Poison Jab,Normal,80,100,20,damage:10
+Dark Pulse,Normal,80,100,15,damage:10
+Night Slash,Normal,70,100,15,damage:10
+Aqua Tail,Normal,90,90,10,damage:10
+Seed Bomb,Normal,80,100,15,damage:10
+Air Slash,Normal,75,95,15,damage:10
+X-Scissor,Normal,80,100,15,damage:10
+Bug Buzz,Normal,90,100,10,damage:10
+Dragon Pulse,Normal,85,100,10,damage:10
+Dragon Rush,Normal,100,75,10,damage:10
+Power Gem,Normal,80,100,20,damage:10
+Drain Punch,Normal,75,100,10,damage:10
+Vacuum Wave,Normal,40,100,30,damage:10
+Focus Blast,Normal,120,70,5,damage:10
+Energy Ball,Normal,90,100,10,damage:10
+Brave Bird,Normal,120,100,15,damage:10
+Earth Power,Normal,90,100,10,damage:10
+Switcheroo,Normal,66,100,10,status:10
+Giga Impact,Normal,150,90,5,damage:10
+Nasty Plot,Normal,66,66,20,status:10
+Bullet Punch,Normal,40,100,30,damage:10
+Avalanche,Normal,60,100,10,damage:10
+Ice Shard,Normal,40,100,30,damage:10
+Shadow Claw,Normal,70,100,15,damage:10
+Thunder Fang,Normal,65,95,15,damage:10
+Ice Fang,Normal,65,95,15,damage:10
+Fire Fang,Normal,65,95,15,damage:10
+Shadow Sneak,Normal,40,100,30,damage:10
+Mud Bomb,Normal,65,85,10,damage:10
+Psycho Cut,Normal,70,100,20,damage:10
+Zen Headbutt,Normal,80,90,15,damage:10
+Mirror Shot,Normal,65,85,10,damage:10
+Flash Cannon,Normal,80,100,10,damage:10
+Rock Climb,Normal,90,85,20,damage:10
+Defog,Normal,66,66,15,status:10
+Trick Room,Normal,66,66,5,status:10
+Draco Meteor,Normal,130,90,5,damage:10
+Discharge,Normal,80,100,15,damage:10
+Lava Plume,Normal,80,100,15,damage:10
+Leaf Storm,Normal,130,90,5,damage:10
+Power Whip,Normal,120,85,10,damage:10
+Rock Wrecker,Normal,150,90,5,damage:10
+Cross Poison,Normal,70,100,20,damage:10
+Gunk Shot,Normal,120,80,5,damage:10
+Iron Head,Normal,80,100,15,damage:10
+Magnet Bomb,Normal,60,66,20,damage:10
+Stone Edge,Normal,100,80,5,damage:10
+Captivate,Normal,66,100,20,status:10
+Stealth Rock,Normal,66,66,20,status:10
+Grass Knot,Normal,66,100,20,damage:10
+Chatter,Normal,65,100,20,damage:10
+Judgment,Normal,100,100,10,damage:10
+Bug Bite,Normal,60,100,20,damage:10
+Charge Beam,Normal,50,90,10,damage:10
+Wood Hammer,Normal,120,100,15,damage:10
+Aqua Jet,Normal,40,100,20,damage:10
+Attack Order,Normal,90,100,15,damage:10
+Defend Order,Normal,66,66,10,status:10
+Heal Order,Normal,66,66,10,status:10
+Head Smash,Normal,150,80,5,damage:10
+Double Hit,Normal,35,90,10,damage:10
+Roar of Time,Normal,150,90,5,damage:10
+Spacial Rend,Normal,100,95,5,damage:10
+Lunar Dance,Normal,66,66,10,status:10
+Crush Grip,Normal,66,100,5,damage:10
+Magma Storm,Normal,100,75,5,damage:10
+Dark Void,Normal,66,50,10,status:10
+Seed Flare,Normal,120,85,5,damage:10
+Ominous Wind,Normal,60,100,5,damage:10
+Shadow Force,Normal,120,100,5,damage:10
+Hone Claws,Normal,66,66,15,status:10
+Wide Guard,Normal,66,66,10,status:10
+Guard Split,Normal,66,66,10,status:10
+Power Split,Normal,66,66,10,status:10
+Wonder Room,Normal,66,66,10,status:10
+Psyshock,Normal,80,100,10,damage:10
+Venoshock,Normal,65,100,10,damage:10
+Autotomize,Normal,66,66,15,status:10
+Rage Powder,Normal,66,66,20,status:10
+Telekinesis,Normal,66,66,15,status:10
+Magic Room,Normal,66,66,10,status:10
+Smack Down,Normal,50,100,15,damage:10
+Storm Throw,Normal,60,100,10,damage:10
+Flame Burst,Normal,70,100,15,damage:10
+Sludge Wave,Normal,95,100,10,damage:10
+Quiver Dance,Normal,66,66,20,status:10
+Heavy Slam,Normal,66,100,10,damage:10
+Synchronoise,Normal,120,100,10,damage:10
+Electro Ball,Normal,66,100,10,damage:10
+Soak,Normal,66,100,20,status:10
+Flame Charge,Normal,50,100,20,damage:10
+Coil,Normal,66,66,20,status:10
+Low Sweep,Normal,65,100,20,damage:10
+Acid Spray,Normal,40,100,20,damage:10
+Foul Play,Normal,95,100,15,damage:10
+Simple Beam,Normal,66,100,15,status:10
+Entrainment,Normal,66,100,15,status:10
+After You,Normal,66,66,15,status:10
+Round,Normal,60,100,15,damage:10
+Echoed Voice,Normal,40,100,15,damage:10
+Chip Away,Normal,70,100,20,damage:10
+Clear Smog,Normal,50,66,15,damage:10
+Stored Power,Normal,20,100,10,damage:10
+Quick Guard,Normal,66,66,15,status:10
+Ally Switch,Normal,66,66,15,status:10
+Scald,Normal,80,100,15,damage:10
+Shell Smash,Normal,66,66,15,status:10
+Heal Pulse,Normal,66,66,10,status:10
+Hex,Normal,65,100,10,damage:10
+Sky Drop,Normal,60,100,10,damage:10
+Shift Gear,Normal,66,66,10,status:10
+Circle Throw,Normal,60,90,10,damage:10
+Incinerate,Normal,60,100,15,damage:10
+Quash,Normal,66,100,15,status:10
+Acrobatics,Normal,55,100,15,damage:10
+Reflect Type,Normal,66,66,15,status:10
+Retaliate,Normal,70,100,5,damage:10
+Final Gambit,Normal,66,100,5,damage:10
+Bestow,Normal,66,66,15,status:10
+Inferno,Normal,100,50,5,damage:10
+Water Pledge,Normal,80,100,10,damage:10
+Fire Pledge,Normal,80,100,10,damage:10
+Grass Pledge,Normal,80,100,10,damage:10
+Volt Switch,Normal,70,100,20,damage:10
+Struggle Bug,Normal,50,100,20,damage:10
+Bulldoze,Normal,60,100,20,damage:10
+Frost Breath,Normal,60,90,10,damage:10
+Dragon Tail,Normal,60,90,10,damage:10
+Work Up,Normal,66,66,30,status:10
+Electroweb,Normal,55,95,15,damage:10
+Wild Charge,Normal,90,100,15,damage:10
+Drill Run,Normal,80,95,10,damage:10
+Dual Chop,Normal,40,90,15,damage:10
+Heart Stamp,Normal,60,100,25,damage:10
+Horn Leech,Normal,75,100,10,damage:10
+Sacred Sword,Normal,90,100,15,damage:10
+Razor Shell,Normal,75,95,10,damage:10
+Heat Crash,Normal,66,100,10,damage:10
+Leaf Tornado,Normal,65,90,10,damage:10
+Steamroller,Normal,65,100,20,damage:10
+Cotton Guard,Normal,66,66,10,status:10
+Night Daze,Normal,85,95,10,damage:10
+Psystrike,Normal,100,100,10,damage:10
+Tail Slap,Normal,25,85,10,damage:10
+Hurricane,Normal,110,70,10,damage:10
+Head Charge,Normal,120,100,15,damage:10
+Gear Grind,Normal,50,85,15,damage:10
+Searing Shot,Normal,100,100,5,damage:10
+Techno Blast,Normal,120,100,5,damage:10
+Relic Song,Normal,75,100,10,damage:10
+Secret Sword,Normal,85,100,10,damage:10
+Glaciate,Normal,65,95,10,damage:10
+Bolt Strike,Normal,130,85,5,damage:10
+Blue Flare,Normal,130,85,5,damage:10
+Fiery Dance,Normal,80,100,10,damage:10
+Freeze Shock,Normal,140,90,5,damage:10
+Ice Burn,Normal,140,90,5,damage:10
+Snarl,Normal,55,95,15,damage:10
+Icicle Crash,Normal,85,90,10,damage:10
+V-create,Normal,180,95,5,damage:10
+Fusion Flare,Normal,100,100,5,damage:10
+Fusion Bolt,Normal,100,100,5,damage:10
+Flying Press,Normal,100,95,10,damage:10
+Mat Block,Normal,66,66,10,status:10
+Belch,Normal,120,90,10,damage:10
+Rototiller,Normal,66,66,10,status:10
+Sticky Web,Normal,66,66,20,status:10
+Fell Stinger,Normal,50,100,25,damage:10
+Phantom Force,Normal,90,100,10,damage:10
+Trick-or-Treat,Normal,66,100,20,status:10
+Noble Roar,Normal,66,100,30,status:10
+Ion Deluge,Normal,66,66,25,status:10
+Parabolic Charge,Normal,65,100,20,damage:10
+Forest's Curse,Normal,66,100,20,status:10
+Petal Blizzard,Normal,90,100,15,damage:10
+Freeze-Dry,Normal,70,100,20,damage:10
+Disarming Voice,Normal,40,66,15,damage:10
+Parting Shot,Normal,66,100,20,status:10
+Topsy-Turvy,Normal,66,66,20,status:10
+Draining Kiss,Normal,50,100,10,damage:10
+Crafty Shield,Normal,66,66,10,status:10
+Flower Shield,Normal,66,66,10,status:10
+Grassy Terrain,Normal,66,66,10,status:10
+Misty Terrain,Normal,66,66,10,status:10
+Electrify,Normal,66,66,20,status:10
+Play Rough,Normal,90,90,10,damage:10
+Fairy Wind,Normal,40,100,30,damage:10
+Moonblast,Normal,95,100,15,damage:10
+Boomburst,Normal,140,100,10,damage:10
+Fairy Lock,Normal,66,66,10,status:10
+King's Shield,Normal,66,66,10,status:10
+Play Nice,Normal,66,66,20,status:10
+Confide,Normal,66,66,20,status:10
+Diamond Storm,Normal,100,95,5,damage:10
+Steam Eruption,Normal,110,95,5,damage:10
+Hyperspace Hole,Normal,80,66,5,damage:10
+Water Shuriken,Normal,15,100,20,damage:10
+Mystical Fire,Normal,75,100,10,damage:10
+Spiky Shield,Normal,66,66,10,status:10
+Aromatic Mist,Normal,66,66,20,status:10
+Eerie Impulse,Normal,66,100,15,status:10
+Venom Drench,Normal,66,100,20,status:10
+Powder,Normal,66,100,20,status:10
+Geomancy,Normal,66,66,10,status:10
+Magnetic Flux,Normal,66,66,20,status:10
+Happy Hour,Normal,66,66,30,status:10
+Electric Terrain,Normal,66,66,10,status:10
+Dazzling Gleam,Normal,80,100,10,damage:10
+Celebrate,Normal,66,66,40,status:10
+Hold Hands,Normal,66,66,40,status:10
+Baby-Doll Eyes,Normal,66,100,30,status:10
+Nuzzle,Normal,20,100,20,damage:10
+Hold Back,Normal,40,100,40,damage:10
+Infestation,Normal,20,100,20,damage:10
+Power-Up Punch,Normal,40,100,20,damage:10
+Oblivion Wing,Normal,80,100,10,damage:10
+Thousand Arrows,Normal,90,100,10,damage:10
+Thousand Waves,Normal,90,100,10,damage:10
+Land's Wrath,Normal,90,100,10,damage:10
+Light of Ruin,Normal,140,90,5,damage:10
+Origin Pulse,Normal,110,85,10,damage:10
+Precipice Blades,Normal,120,85,10,damage:10
+Dragon Ascent,Normal,120,100,5,damage:10
+Hyperspace Fury,Normal,100,66,5,damage:10
+Breakneck Blitz,Normal,66,66,1,damage:10
+Breakneck Blitz,Normal,66,66,1,damage:10
+All-Out Pummeling,Normal,66,66,1,damage:10
+All-Out Pummeling,Normal,66,66,1,damage:10
+Supersonic Skystrike,Normal,66,66,1,damage:10
+Supersonic Skystrike,Normal,66,66,1,damage:10
+Acid Downpour,Normal,66,66,1,damage:10
+Acid Downpour,Normal,66,66,1,damage:10
+Tectonic Rage,Normal,66,66,1,damage:10
+Tectonic Rage,Normal,66,66,1,damage:10
+Continental Crush,Normal,66,66,1,damage:10
+Continental Crush,Normal,66,66,1,damage:10
+Savage Spin-Out,Normal,66,66,1,damage:10
+Savage Spin-Out,Normal,66,66,1,damage:10
+Never-Ending Nightmare,Normal,66,66,1,damage:10
+Never-Ending Nightmare,Normal,66,66,1,damage:10
+Corkscrew Crash,Normal,66,66,1,damage:10
+Corkscrew Crash,Normal,66,66,1,damage:10
+Inferno Overdrive,Normal,66,66,1,damage:10
+Inferno Overdrive,Normal,66,66,1,damage:10
+Hydro Vortex,Normal,66,66,1,damage:10
+Hydro Vortex,Normal,66,66,1,damage:10
+Bloom Doom,Normal,66,66,1,damage:10
+Bloom Doom,Normal,66,66,1,damage:10
+Gigavolt Havoc,Normal,66,66,1,damage:10
+Gigavolt Havoc,Normal,66,66,1,damage:10
+Shattered Psyche,Normal,66,66,1,damage:10
+Shattered Psyche,Normal,66,66,1,damage:10
+Subzero Slammer,Normal,66,66,1,damage:10
+Subzero Slammer,Normal,66,66,1,damage:10
+Devastating Drake,Normal,66,66,1,damage:10
+Devastating Drake,Normal,66,66,1,damage:10
+Black Hole Eclipse,Normal,66,66,1,damage:10
+Black Hole Eclipse,Normal,66,66,1,damage:10
+Twinkle Tackle,Normal,66,66,1,damage:10
+Twinkle Tackle,Normal,66,66,1,damage:10
+Catastropika,Normal,210,66,1,damage:10
+Shore Up,Normal,66,66,5,status:10
+First Impression,Normal,90,100,10,damage:10
+Baneful Bunker,Normal,66,66,10,status:10
+Spirit Shackle,Normal,80,100,10,damage:10
+Darkest Lariat,Normal,85,100,10,damage:10
+Sparkling Aria,Normal,90,100,10,damage:10
+Ice Hammer,Normal,100,90,10,damage:10
+Floral Healing,Normal,66,66,10,status:10
+High Horsepower,Normal,95,95,10,damage:10
+Strength Sap,Normal,66,100,10,status:10
+Solar Blade,Normal,125,100,10,damage:10
+Leafage,Normal,40,100,40,damage:10
+Spotlight,Normal,66,66,15,status:10
+Toxic Thread,Normal,66,100,20,status:10
+Laser Focus,Normal,66,66,30,status:10
+Gear Up,Normal,66,66,20,status:10
+Throat Chop,Normal,80,100,15,damage:10
+Pollen Puff,Normal,90,100,15,damage:10
+Anchor Shot,Normal,80,100,20,damage:10
+Psychic Terrain,Normal,66,66,10,status:10
+Lunge,Normal,80,100,15,damage:10
+Fire Lash,Normal,80,100,15,damage:10
+Power Trip,Normal,20,100,10,damage:10
+Burn Up,Normal,130,100,5,damage:10
+Speed Swap,Normal,66,66,10,status:10
+Smart Strike,Normal,70,66,10,damage:10
+Purify,Normal,66,66,20,status:10
+Revelation Dance,Normal,90,100,15,damage:10
+Core Enforcer,Normal,100,100,10,damage:10
+Trop Kick,Normal,70,100,15,damage:10
+Instruct,Normal,66,66,15,status:10
+Beak Blast,Normal,100,100,15,damage:10
+Clanging Scales,Normal,110,100,5,damage:10
+Dragon Hammer,Normal,90,100,15,damage:10
+Brutal Swing,Normal,60,100,20,damage:10
+Aurora Veil,Normal,66,66,20,status:10
+Sinister Arrow Raid,Normal,180,66,1,damage:10
+Malicious Moonsault,Normal,180,66,1,damage:10
+Oceanic Operetta,Normal,195,66,1,damage:10
+Guardian of Alola,Normal,66,66,1,damage:10
+Soul-Stealing 7-Star Strike,Normal,195,66,1,damage:10
+Stoked Sparksurfer,Normal,175,66,1,damage:10
+Pulverizing Pancake,Normal,210,66,1,damage:10
+Extreme Evoboost,Normal,66,66,1,status:10
+Genesis Supernova,Normal,185,66,1,damage:10
+Shell Trap,Normal,150,100,5,damage:10
+Fleur Cannon,Normal,130,90,5,damage:10
+Psychic Fangs,Normal,85,100,10,damage:10
+Stomping Tantrum,Normal,75,100,10,damage:10
+Shadow Bone,Normal,85,100,10,damage:10
+Accelerock,Normal,40,100,20,damage:10
+Liquidation,Normal,85,100,10,damage:10
+Prismatic Laser,Normal,160,100,10,damage:10
+Spectral Thief,Normal,90,100,10,damage:10
+Sunsteel Strike,Normal,100,100,5,damage:10
+Moongeist Beam,Normal,100,100,5,damage:10
+Tearful Look,Normal,66,66,20,status:10
+Zing Zap,Normal,80,100,10,damage:10
+Nature's Madness,Normal,66,90,10,damage:10
+Multi-Attack,Normal,120,100,10,damage:10
+"10,000,000 Volt Thunderbolt",Normal,195,66,10,damage:10
+Mind Blown,Normal,150,100,5,damage:10
+Plasma Fists,Normal,100,100,15,damage:10
+Photon Geyser,Normal,100,100,5,damage:10
+Light That Burns the Sky,Normal,200,66,1,damage:10
+Searing Sunraze Smash,Normal,200,66,1,damage:10
+Menacing Moonraze Maelstrom,Normal,200,66,1,damage:10
+Let's Snuggle Forever,Normal,190,66,1,damage:10
+Splintered Stormshards,Normal,190,66,1,damage:10
+Clangorous Soulblaze,Normal,185,66,1,damage:10
+Zippy Zap,Normal,80,100,10,damage:10
+Splishy Splash,Normal,90,100,15,damage:10
+Floaty Fall,Normal,90,95,15,damage:10
+Pika Papow,Normal,66,66,20,damage:10
+Bouncy Bubble,Normal,60,100,20,damage:10
+Buzzy Buzz,Normal,60,100,20,damage:10
+Sizzly Slide,Normal,60,100,20,damage:10
+Glitzy Glow,Normal,80,95,15,damage:10
+Baddy Bad,Normal,80,95,15,damage:10
+Sappy Seed,Normal,100,90,10,damage:10
+Freezy Frost,Normal,100,90,10,damage:10
+Sparkly Swirl,Normal,120,85,5,damage:10
+Veevee Volley,Normal,66,66,20,damage:10
+Double Iron Bash,Normal,60,100,5,damage:10
+Max Guard,Normal,66,66,10,status:10
+Dynamax Cannon,Normal,100,100,5,damage:10
+Snipe Shot,Normal,80,100,15,damage:10
+Jaw Lock,Normal,80,100,10,damage:10
+Stuff Cheeks,Normal,66,66,10,status:10
+No Retreat,Normal,66,66,5,status:10
+Tar Shot,Normal,66,100,15,status:10
+Magic Powder,Normal,66,100,20,status:10
+Dragon Darts,Normal,50,100,10,damage:10
+Teatime,Normal,66,66,10,status:10
+Octolock,Normal,66,100,15,status:10
+Bolt Beak,Normal,85,100,10,damage:10
+Fishious Rend,Normal,85,100,10,damage:10
+Court Change,Normal,66,100,10,status:10
+Max Flare,Normal,66,66,10,damage:10
+Max Flutterby,Normal,66,66,10,damage:10
+Max Lightning,Normal,66,66,10,damage:10
+Max Strike,Normal,66,66,10,damage:10
+Max Knuckle,Normal,66,66,10,damage:10
+Max Phantasm,Normal,66,66,10,damage:10
+Max Hailstorm,Normal,66,66,10,damage:10
+Max Ooze,Normal,66,66,10,damage:10
+Max Geyser,Normal,66,66,10,damage:10
+Max Airstream,Normal,66,66,10,damage:10
+Max Starfall,Normal,66,66,10,damage:10
+Max Wyrmwind,Normal,66,66,10,damage:10
+Max Mindstorm,Normal,66,66,10,damage:10
+Max Rockfall,Normal,66,66,10,damage:10
+Max Quake,Normal,66,66,10,damage:10
+Max Darkness,Normal,66,66,10,damage:10
+Max Overgrowth,Normal,66,66,10,damage:10
+Max Steelspike,Normal,66,66,10,damage:10
+Clangorous Soul,Normal,66,66,5,status:10
+Body Press,Normal,80,100,10,damage:10
+Decorate,Normal,66,66,15,status:10
+Drum Beating,Normal,80,100,10,damage:10
+Snap Trap,Normal,35,100,15,damage:10
+Pyro Ball,Normal,120,90,5,damage:10
+Behemoth Blade,Normal,100,100,5,damage:10
+Behemoth Bash,Normal,100,100,5,damage:10
+Aura Wheel,Normal,110,100,10,damage:10
+Breaking Swipe,Normal,60,100,15,damage:10
+Branch Poke,Normal,40,100,40,damage:10
+Overdrive,Normal,80,100,10,damage:10
+Apple Acid,Normal,80,100,10,damage:10
+Grav Apple,Normal,80,100,10,damage:10
+Spirit Break,Normal,75,100,15,damage:10
+Strange Steam,Normal,90,95,10,damage:10
+Life Dew,Normal,66,66,10,status:10
+Obstruct,Normal,66,100,10,status:10
+False Surrender,Normal,80,66,10,damage:10
+Meteor Assault,Normal,150,100,5,damage:10
+Eternabeam,Normal,160,90,5,damage:10
+Steel Beam,Normal,140,95,5,damage:10
+Expanding Force,Normal,80,100,10,damage:10
+Steel Roller,Normal,130,100,5,damage:10
+Scale Shot,Normal,25,90,20,damage:10
+Meteor Beam,Normal,120,90,10,damage:10
+Shell Side Arm,Normal,90,100,10,damage:10
+Misty Explosion,Normal,100,100,5,damage:10
+Grassy Glide,Normal,60,100,20,damage:10
+Rising Voltage,Normal,70,100,20,damage:10
+Terrain Pulse,Normal,50,100,10,damage:10
+Skitter Smack,Normal,70,90,10,damage:10
+Burning Jealousy,Normal,70,100,5,damage:10
+Lash Out,Normal,75,100,5,damage:10
+Poltergeist,Normal,110,90,5,damage:10
+Corrosive Gas,Normal,66,100,40,status:10
+Coaching,Normal,66,66,10,status:10
+Flip Turn,Normal,60,100,20,damage:10
+Triple Axel,Normal,20,90,10,damage:10
+Dual Wingbeat,Normal,40,90,10,damage:10
+Scorching Sands,Normal,70,100,10,damage:10
+Jungle Healing,Normal,66,66,10,status:10
+Wicked Blow,Normal,75,100,5,damage:10
+Surging Strikes,Normal,25,100,5,damage:10
+Thunder Cage,Normal,80,90,15,damage:10
+Dragon Energy,Normal,150,100,5,damage:10
+Freezing Glare,Normal,90,100,10,damage:10
+Fiery Wrath,Normal,90,100,10,damage:10
+Thunderous Kick,Normal,90,100,10,damage:10
+Glacial Lance,Normal,120,100,5,damage:10
+Astral Barrage,Normal,120,100,5,damage:10
+Eerie Spell,Normal,80,100,5,damage:10
+Dire Claw,Normal,80,100,15,damage:10
+Psyshield Bash,Normal,70,90,10,damage:10
+Power Shift,Normal,66,66,10,status:10
+Stone Axe,Normal,65,90,15,damage:10
+Springtide Storm,Normal,100,80,10,damage:10
+Mystical Power,Normal,70,90,10,damage:10
+Raging Fury,Normal,120,100,10,damage:10
+Wave Crash,Normal,120,100,10,damage:10
+Chloroblast,Normal,150,95,5,damage:10
+Mountain Gale,Normal,100,85,10,damage:10
+Victory Dance,Normal,66,66,10,status:10
+Headlong Rush,Normal,120,100,5,damage:10
+Barb Barrage,Normal,60,100,10,damage:10
+Esper Wing,Normal,80,100,10,damage:10
+Bitter Malice,Normal,75,100,10,damage:10
+Shelter,Normal,66,66,10,status:10
+Triple Arrows,Normal,90,100,10,damage:10
+Infernal Parade,Normal,60,100,15,damage:10
+Ceaseless Edge,Normal,65,90,15,damage:10
+Bleakwind Storm,Normal,100,80,10,damage:10
+Wildbolt Storm,Normal,100,80,10,damage:10
+Sandsear Storm,Normal,100,80,10,damage:10
+Lunar Blessing,Normal,66,66,5,status:10
+Take Heart,Normal,66,66,10,status:10
+Tera Blast,Normal,80,100,10,damage:10
+Silk Trap,Normal,66,66,10,status:10
+Axe Kick,Normal,120,90,10,damage:10
+Last Respects,Normal,50,100,10,damage:10
+Lumina Crash,Normal,80,100,10,damage:10
+Order Up,Normal,80,100,10,damage:10
+Jet Punch,Normal,60,100,15,damage:10
+Spicy Extract,Normal,66,66,15,status:10
+Spin Out,Normal,100,100,5,damage:10
+Population Bomb,Normal,20,90,10,damage:10
+Ice Spinner,Normal,80,100,15,damage:10
+Glaive Rush,Normal,120,100,5,damage:10
+Revival Blessing,Normal,66,66,1,status:10
+Salt Cure,Normal,40,100,15,damage:10
+Triple Dive,Normal,30,95,10,damage:10
+Mortal Spin,Normal,30,100,15,damage:10
+Doodle,Normal,66,100,10,status:10
+Fillet Away,Normal,66,66,10,status:10
+Kowtow Cleave,Normal,85,66,10,damage:10
+Flower Trick,Normal,70,66,10,damage:10
+Torch Song,Normal,80,100,10,damage:10
+Aqua Step,Normal,80,100,10,damage:10
+Raging Bull,Normal,90,100,10,damage:10
+Make It Rain,Normal,120,100,5,damage:10
+Psyblade,Normal,80,100,15,damage:10
+Hydro Steam,Normal,80,100,15,damage:10
+Ruination,Normal,66,90,10,damage:10
+Collision Course,Normal,100,100,5,damage:10
+Electro Drift,Normal,100,100,5,damage:10
+Shed Tail,Normal,66,66,10,status:10
+Chilly Reception,Normal,66,66,10,status:10
+Tidy Up,Normal,66,66,10,status:10
+Snowscape,Normal,66,66,10,status:10
+Pounce,Normal,50,100,20,damage:10
+Trailblaze,Normal,50,100,20,damage:10
+Chilling Water,Normal,50,100,20,damage:10
+Hyper Drill,Normal,100,100,5,damage:10
+Twin Beam,Normal,40,100,10,damage:10
+Rage Fist,Normal,50,100,10,damage:10
+Armor Cannon,Normal,120,100,5,damage:10
+Bitter Blade,Normal,90,100,10,damage:10
+Double Shock,Normal,120,100,5,damage:10
+Gigaton Hammer,Normal,160,100,5,damage:10
+Comeuppance,Normal,66,100,10,damage:10
+Aqua Cutter,Normal,70,100,20,damage:10
+Blazing Torque,Normal,80,100,10,damage:10
+Wicked Torque,Normal,80,100,10,damage:10
+Noxious Torque,Normal,100,100,10,damage:10
+Combat Torque,Normal,100,100,10,damage:10
+Magical Torque,Normal,100,100,10,damage:10
+Thundershock,Normal,100,100,10,damage:10
+Vice Grip,Normal,100,100,10,damage:10
+SmokeScreen,Normal,100,100,10,damage:10
+Bubblebeam,Normal,100,100,10,damage:10
+ThunderPunch,Normal,100,100,10,damage:10

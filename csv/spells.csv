@@ -1,0 +1,522 @@
+Name,spType,ManaCost,Price,Duration,Effects,EffectType,Power,Level,Details
+Acid Splash,Normal,1,100,Instant,damage:10/paralyze:1,Acid,10,0,a spell
+Blade Ward,Normal,1,100,Turn,damage:10,Combat,10,0,a spell
+Booming Blade,Normal,1,100,Turn,heal:10,Thunder,10,0,a spell
+Chill Touch,Normal,1,100,Turn,damage:10,Necrotic,10,0,a spell
+Control Flames,Normal,1,100,Instant,heal:10,Control,10,0,a spell
+Create Bonfire,Normal,1,100,Battle,damage:10,Fire,10,0,a spell
+Dancing Lights,Normal,1,100,Battle,damage:10,Utility,10,0,a spell
+Druidcraft,Normal,1,100,Instant,damage:10,Control,10,0,a spell
+Eldritch Blast,Normal,1,100,Instant,damage:10,Force,10,0,a spell
+Encode Thoughts,Normal,1,100,Day,damage:10,Creation,10,0,a spell
+Fire Bolt,Normal,1,100,Instant,damage:10,Fire,10,0,a spell
+Friends,Normal,1,100,Battle,damage:10,Buff,10,0,a spell
+Frostbite,Normal,1,100,Instant,damage:10,Cold,10,0,a spell
+Green-Flame Blade,Normal,1,100,Instant,damage:10,Fire,10,0,a spell
+Guidance,Normal,1,100,Battle,damage:10,Buff,10,0,a spell
+Gust,Normal,1,100,Instant,damage:10,Control,10,0,a spell
+Infestation,Normal,1,100,Instant,damage:10,Poison,10,0,a spell
+Light,Normal,1,100,Day,damage:10,Creation,10,0,a spell
+Lightning Lure,Normal,1,100,Instant,damage:10,Lightning,10,0,a spell
+Mage Hand,Normal,1,100,Battle,damage:10,Utility,10,0,a spell
+Magic Stone,Normal,1,100,Battle,damage:10,Bludgeoning,10,0,a spell
+Mending,Normal,1,100,Instant,damage:10,Utility,10,0,a spell
+Message,Normal,1,100,Turn,damage:10,Communication,10,0,a spell
+Mind Sliver,Normal,1,100,Instant,damage:10,Psychic,10,0,a spell
+Minor Illusion,Normal,1,100,Battle,damage:10,Control,10,0,a spell
+Mold earth,Normal,1,100,Instant,damage:10,Control,10,0,a spell
+Poison Spray,Normal,1,100,Instant,damage:10,Poison,10,0,a spell
+Prestidigitation,Normal,1,100,Day,damage:10,Utility,10,0,a spell
+Primal Savagery,Normal,1,100,Instant,damage:10,Acid,10,0,a spell
+Produce Flame,Normal,1,100,Battle,damage:10,Fire,10,0,a spell
+Ray of Frost,Normal,1,100,Instant,damage:10,Cold,10,0,a spell
+Resistance,Normal,1,100,Battle,damage:10,Buff,10,0,a spell
+Sacred Flame,Normal,1,100,Instant,damage:10,Radiant,10,0,a spell
+Sapping Sting,Normal,1,100,Instant,damage:10,Necrotic,10,0,a spell
+Shape Water,Normal,1,100,Instant,damage:10,Control,10,0,a spell
+Shillelagh,Normal,1,100,Battle,damage:10,Bludgeoning,10,0,a spell
+Shocking Grasp,Normal,1,100,Instant,damage:10,Lightning,10,0,a spell
+Spare the Dying,Normal,1,100,Instant,damage:10,Healing,10,0,a spell
+Sword Burst,Normal,1,100,Instant,damage:10,Force,10,0,a spell
+Thaumaturgy,Normal,1,100,Battle,damage:10,Control,10,0,a spell
+Thorn Whip,Normal,1,100,Instant,damage:10,Piercing,10,0,a spell
+Thunderclap,Normal,1,100,Instant,damage:10,Thunder,10,0,a spell
+Toll the Dead,Normal,1,100,Instant,damage:10,Necrotic,10,0,a spell
+True Strike,Normal,1,100,Turn,damage:10,Foreknowledge,10,0,a spell
+Vicious Mockery,Normal,1,100,Instant,damage:10,Psychic,10,0,a spell
+Word of Radiance,Normal,1,100,Instant,damage:10,Radiant,10,0,a spell
+Absorb Elements,Normal,1,100,Turn,damage:10,Acid,10,1,a spell
+Alarm,Normal,1,100,Day,damage:10,Detection,10,1,a spell
+Animal Friendship,Normal,1,100,Day,damage:10,Charmed,10,1,a spell
+Armor of Agathys,Normal,1,100,Day,damage:10,Cold,10,1,a spell
+Arms of Hadar,Normal,1,100,Instant,damage:10,Necrotic,10,1,a spell
+Bane,Normal,1,100,Battle,damage:10,Debuff,10,1,a spell
+Beast Bond,Normal,1,100,Battle,damage:10,Buff,10,1,a spell
+Bless,Normal,1,100,Battle,damage:10,Buff,10,1,a spell
+Burning Hands,Normal,1,100,Instant,damage:10,Fire,10,1,a spell
+Catapult,Normal,1,100,Instant,damage:10,Bludgeoning,10,1,a spell
+Cause Fear,Normal,1,100,Battle,damage:10,Frightened,10,1,a spell
+Ceremony,Normal,1,100,Instant,damage:10,Buff,10,1,a spell
+Chaos Bolt,Normal,1,100,Instant,damage:10,Acid,10,1,a spell
+Charm Person,Normal,1,100,Day,damage:10,Charmed,10,1,a spell
+Chromatic Orb,Normal,1,100,Instant,damage:10,Acid,10,1,a spell
+Color Spray,Normal,1,100,Turn,damage:10,Blinded,10,1,a spell
+Command,Normal,1,100,Turn,damage:10,Prone,10,1,a spell
+Compelled Duel,Normal,1,100,Battle,damage:10,Control,10,1,a spell
+Comprehend Languages,Normal,1,100,Day,damage:10,Social,10,1,a spell
+Create or Destroy Water,Normal,1,100,Instant,damage:10,Creation,10,1,a spell
+Cure Wounds,Normal,1,100,Instant,damage:10,Healing,10,1,a spell
+Detect Evil and Good,Normal,1,100,Battle,damage:10,Detection,10,1,a spell
+Detect Magic,Normal,1,100,Battle,damage:10,Detection,10,1,a spell
+Detect Poison and Disease,Normal,1,100,Battle,damage:10,Detection,10,1,a spell
+Disguise Self,Normal,1,100,Day,damage:10,Shapechanging,10,1,a spell
+Dissonant Whispers,Normal,1,100,Instant,damage:10,Psychic,10,1,a spell
+Distort Value,Normal,1,100,Day,damage:10,,10,1,a spell
+Divine Favor,Normal,1,100,Battle,damage:10,Radiant,10,1,a spell
+Earth Tremor,Normal,1,100,Instant,damage:10,Bludgeoning,10,1,a spell
+Ensnaring Strike,Normal,1,100,Battle,damage:10,Piercing,10,1,a spell
+Entangle,Normal,1,100,Battle,damage:10,Restrained,10,1,a spell
+Expeditious Retreat,Normal,1,100,Battle,damage:10,Movement,10,1,a spell
+Faerie Fire,Normal,1,100,Battle,damage:10,Debuff,10,1,a spell
+False Life,Normal,1,100,Day,damage:10,Healing,10,1,a spell
+Feather Fall,Normal,1,100,Battle,damage:10,Exploration,10,1,a spell
+Find Familiar,Normal,1,100,Instant,damage:10,Summoning,10,1,a spell
+Floating Disk,Normal,1,100,Day,damage:10,Movement,10,1,a spell
+Fog Cloud,Normal,1,100,Day,damage:10,Control,10,1,a spell
+Gift of Alacrity,Normal,1,100,Day,damage:10,Buff,10,1,a spell
+Goodberry,Normal,1,100,Instant,damage:10,Healing,10,1,a spell
+Grease,Normal,1,100,Battle,damage:10,Prone,10,1,a spell
+Guiding Bolt,Normal,1,100,Turn,damage:10,Radiant,10,1,a spell
+Hail of Thorns,Normal,1,100,Battle,damage:10,Piercing,10,1,a spell
+Healing Word,Normal,1,100,Instant,damage:10,Healing,10,1,a spell
+Hellish Rebuke,Normal,1,100,Instant,damage:10,Fire,10,1,a spell
+Heroism,Normal,1,100,Battle,damage:10,Buff,10,1,a spell
+Hex,Normal,1,100,Day,damage:10,Necrotic,10,1,a spell
+Hideous Laughter,Normal,1,100,Battle,damage:10,Prone,10,1,a spell
+Hunter's Mark,Normal,1,100,Day,damage:10,Bludgeoning,10,1,a spell
+Ice Knife,Normal,1,100,Instant,damage:10,Piercing,10,1,a spell
+Identify,Normal,1,100,Instant,damage:10,Detection,10,1,a spell
+Illusory Script,Normal,1,100,Day,damage:10,Communication,10,1,a spell
+Inflict Wounds,Normal,1,100,Instant,damage:10,Necrotic,10,1,a spell
+Jim's Magic Missile,Normal,1,100,Instant,damage:10,Force,10,1,a spell
+Jump,Normal,1,100,Battle,damage:10,Movement,10,1,a spell
+Longstrider,Normal,1,100,Day,damage:10,Buff,10,1,a spell
+Mage Armor,Normal,1,100,Day,damage:10,Buff,10,1,a spell
+Magic Missile,Normal,1,100,Instant,damage:10,Force,10,1,a spell
+Magnify Gravity,Normal,1,100,Turn,damage:10,Force,10,1,a spell
+Protection from Evil and Good,Normal,1,100,Battle,damage:10,Buff,10,1,a spell
+Purify Food and Drink,Normal,1,100,Instant,damage:10,Utility,10,1,a spell
+Ray of Sickness,Normal,1,100,Instant,damage:10,Poison,10,1,a spell
+Sanctuary,Normal,1,100,Battle,damage:10,Buff,10,1,a spell
+Searing Smite,Normal,1,100,Battle,damage:10,Fire,10,1,a spell
+Shield,Normal,1,100,Turn,damage:10,Warding,10,1,a spell
+Shield of Faith,Normal,1,100,Battle,damage:10,Buff,10,1,a spell
+Silent Image,Normal,1,100,Battle,damage:10,Control,10,1,a spell
+Sleep,Normal,1,100,Battle,damage:10,Unconscious,10,1,a spell
+Snare,Normal,1,100,Day,damage:10,Restrained,10,1,a spell
+Speak with Animals,Normal,1,100,Battle,damage:10,Communication,10,1,a spell
+Tasha's Caustinc Brew,Normal,1,100,Battle,damage:10,Acid,10,1,a spell
+Tasha's Hideous Laughter,Normal,1,100,Battle,damage:10,Prone,10,1,a spell
+Tenser's Floating Disk,Normal,1,100,Day,damage:10,Movement,10,1,a spell
+Thunderous Smite,Normal,1,100,Battle,damage:10,Thunder,10,1,a spell
+Thunderwave,Normal,1,100,Instant,damage:10,Thunder,10,1,a spell
+Unseen Servant,Normal,1,100,Day,damage:10,Control,10,1,a spell
+Witch Bolt,Normal,1,100,Battle,damage:10,Lightning,10,1,a spell
+Wrathful Smite,Normal,1,100,Battle,damage:10,Psychic,10,1,a spell
+Zephyr Strike,Normal,1,100,Battle,damage:10,Force,10,1,a spell
+Acid Arrow,Normal,1,100,Instant,damage:10,Acid,10,2,a spell
+Aganazzar's Scorcher,Normal,1,100,Instant,damage:10,Fire,10,2,a spell
+Aid,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Alter Self,Normal,1,100,Day,damage:10,Shapechanging,10,2,a spell
+Animal Messenger,Normal,1,100,Day,damage:10,Communication,10,2,a spell
+Arcane Lock,Normal,1,100,Forever,damage:10,Utility,10,2,a spell
+Arcanist's Magic Aura,Normal,1,100,Day,damage:10,Deception,10,2,a spell
+Augury,Normal,1,100,Instant,damage:10,Foreknowledge,10,2,a spell
+Barkskin,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Beast Sense,Normal,1,100,Day,damage:10,Detection,10,2,a spell
+Blindness/Deafness,Normal,1,100,Battle,damage:10,Blinded,10,2,a spell
+Blur,Normal,1,100,Battle,damage:10,Deception,10,2,a spell
+Branding Smite,Normal,1,100,Battle,damage:10,Radiant,10,2,a spell
+Calm Emotions,Normal,1,100,Battle,damage:10,Charmed,10,2,a spell
+Cloud of Daggers,Normal,1,100,Battle,damage:10,Slashing,10,2,a spell
+Continual Flame,Normal,1,100,Forever,damage:10,Creation,10,2,a spell
+Cordon of Arrows,Normal,1,100,Day,damage:10,Piercing,10,2,a spell
+Crown of Madness,Normal,1,100,Battle,damage:10,Charmed,10,2,a spell
+Darkness,Normal,1,100,Battle,damage:10,Control,10,2,a spell
+Darkvision,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Detect Thoughts,Normal,1,100,Battle,damage:10,Detection,10,2,a spell
+Dragon's Breath,Normal,1,100,Battle,damage:10,Acid,10,2,a spell
+Dust Devil,Normal,1,100,Battle,damage:10,Bludgeoning,10,2,a spell
+Earthbind,Normal,1,100,Battle,damage:10,Control,10,2,a spell
+Enhance Ability,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Enlarge/Reduce,Normal,1,100,Battle,damage:10,Buff,10,2,a spell
+Enthrall,Normal,1,100,Battle,damage:10,Control,10,2,a spell
+Find Steed,Normal,1,100,Instant,damage:10,Summoning,10,2,a spell
+Find Traps,Normal,1,100,Instant,damage:10,Detection,10,2,a spell
+Flame Blade,Normal,1,100,Battle,damage:10,Fire,10,2,a spell
+Flaming Sphere,Normal,1,100,Battle,damage:10,Fire,10,2,a spell
+Flock of Familiars,Normal,1,100,Day,damage:10,,10,2,a spell
+Fortune's Favor,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Gentle Repose,Normal,1,100,Day,damage:10,Warding,10,2,a spell
+Gift of Gab,Normal,1,100,Instant,damage:10,,10,2,a spell
+Gust of Wind,Normal,1,100,Battle,damage:10,Control,10,2,a spell
+Healing Spirit,Normal,1,100,Battle,damage:10,Healing,10,2,a spell
+Heat Metal,Normal,1,100,Battle,damage:10,Fire,10,2,a spell
+Hold Person,Normal,1,100,Battle,damage:10,Paralyzed,10,2,a spell
+Immovable Object,Normal,1,100,Day,damage:10,Dunamancy,10,2,a spell
+Invisibility,Normal,1,100,Day,damage:10,Invisible,10,2,a spell
+Jim's Glowing Coin,Normal,1,100,Battle,damage:10,WIS Save,10,2,a spell
+Knock,Normal,1,100,Instant,damage:10,Utility,10,2,a spell
+Lesser Restoration,Normal,1,100,Instant,damage:10,Healing,10,2,a spell
+Levitate,Normal,1,100,Battle,damage:10,Movement,10,2,a spell
+Locate Animals or Plants,Normal,1,100,Instant,damage:10,Detection,10,2,a spell
+Locate Object,Normal,1,100,Battle,damage:10,Detection,10,2,a spell
+Magic Mouth,Normal,1,100,Forever,damage:10,Communication,10,2,a spell
+Magic Weapon,Normal,1,100,Day,damage:10,Bludgeoning,10,2,a spell
+Maximilian's Earthen Grasp,Normal,1,100,Battle,damage:10,Bludgeoning,10,2,a spell
+Melf's Acid Arrow,Normal,1,100,Instant,damage:10,Acid,10,2,a spell
+Mind Spike,Normal,1,100,Day,damage:10,Psychic,10,2,a spell
+Mirror Image,Normal,1,100,Battle,damage:10,Deception,10,2,a spell
+Misty Step,Normal,1,100,Instant,damage:10,Teleportation,10,2,a spell
+Moonbeam,Normal,1,100,Battle,damage:10,Radiant,10,2,a spell
+Nystul's Magic Aura,Normal,1,100,Day,damage:10,Deception,10,2,a spell
+Pass Without Trace,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Phantasmal Force,Normal,1,100,Battle,damage:10,Psychic,10,2,a spell
+Prayer of Healing,Normal,1,100,Instant,damage:10,Healing,10,2,a spell
+Protection from Poison,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Pyrotechnics,Normal,1,100,Instant,damage:10,Blinded,10,2,a spell
+Ray of Enfeeblement,Normal,1,100,Battle,damage:10,Debuff,10,2,a spell
+Rope Trick,Normal,1,100,Day,damage:10,Utility,10,2,a spell
+Scorching Ray,Normal,1,100,Instant,damage:10,Fire,10,2,a spell
+See invisibility,Normal,1,100,Day,damage:10,Detection,10,2,a spell
+Shadow Blade,Normal,1,100,Battle,damage:10,Psychic,10,2,a spell
+Shatter,Normal,1,100,Instant,damage:10,Thunder,10,2,a spell
+Silence,Normal,1,100,Battle,damage:10,Control,10,2,a spell
+Skywrite,Normal,1,100,Day,damage:10,Communication,10,2,a spell
+Snilloc's Snowball Swarm,Normal,1,100,Instant,damage:10,Cold,10,2,a spell
+Spider Climb,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Spike Growth,Normal,1,100,Battle,damage:10,Control,10,2,a spell
+Spiritual Weapon,Normal,1,100,Battle,damage:10,Force,10,2,a spell
+Suggestion,Normal,1,100,Day,damage:10,Control,10,2,a spell
+Summon Beast,Normal,1,100,Day,damage:10,Summoning,10,2,a spell
+Tasha's Mind Whip,Normal,1,100,Turn,damage:10,Psychic,10,2,a spell
+Warding Bond,Normal,1,100,Day,damage:10,Buff,10,2,a spell
+Warding Wind,Normal,1,100,Battle,damage:10,Deafened,10,2,a spell
+Web,Normal,1,100,Day,damage:10,Restrained,10,2,a spell
+Wristpocket,Normal,1,100,Day,damage:10,Dunamancy,10,2,a spell
+Zone of Truth,Normal,1,100,Battle,damage:10,Control,10,2,a spell
+Animate Dead,Normal,1,100,Instant,damage:10,Creation,10,3,a spell
+Aura of Vitality,Normal,1,100,Battle,damage:10,Healing,10,3,a spell
+Beacon of Hope,Normal,1,100,Battle,damage:10,Buff,10,3,a spell
+Bestow Curse,Normal,1,100,Battle,damage:10,Debuff,10,3,a spell
+Blinding Smite,Normal,1,100,Battle,damage:10,Radiant,10,3,a spell
+Blink,Normal,1,100,Battle,damage:10,Utility,10,3,a spell
+Call Lightning,Normal,1,100,Battle,damage:10,Lightning,10,3,a spell
+Catnap,Normal,1,100,Battle,damage:10,Buff,10,3,a spell
+Clairvoyance,Normal,1,100,Battle,damage:10,Detection,10,3,a spell
+Conjure Animals,Normal,1,100,Day,damage:10,Summoning,10,3,a spell
+Conjure Barrage,Normal,1,100,Instant,damage:10,Additional,10,3,a spell
+Counterspell,Normal,1,100,Instant,damage:10,Negation,10,3,a spell
+Create Food and Water,Normal,1,100,Instant,damage:10,Creation,10,3,a spell
+Crusader's Mantle,Normal,1,100,Battle,damage:10,Radiant,10,3,a spell
+Daylight,Normal,1,100,Day,damage:10,Control,10,3,a spell
+Dispel Magic,Normal,1,100,Instant,damage:10,Control,10,3,a spell
+Elemental Weapon,Normal,1,100,Day,damage:10,Acid,10,3,a spell
+Enemies abound,Normal,1,100,Battle,damage:10,Control,10,3,a spell
+Erupting Earth,Normal,1,100,Instant,damage:10,Bludgeoning,10,3,a spell
+Fast Friends,Normal,1,100,Day,damage:10,Charmed,10,3,a spell
+Fear,Normal,1,100,Battle,damage:10,Frightened,10,3,a spell
+Feign Death,Normal,1,100,Day,damage:10,Blinded,10,3,a spell
+Fireball,Normal,1,100,Instant,damage:10,Fire,10,3,a spell
+Flame Arrows,Normal,1,100,Day,damage:10,Fire,10,3,a spell
+Fly,Normal,1,100,Battle,damage:10,Movement,10,3,a spell
+Galder's Tower,Normal,1,100,Day,damage:10,,10,3,a spell
+Gaseous Form,Normal,1,100,Day,damage:10,Buff,10,3,a spell
+Glyph of Warding,Normal,1,100,Forever,damage:10,Acid,10,3,a spell
+Haste,Normal,1,100,Battle,damage:10,Buff,10,3,a spell
+Hunger of Hadar,Normal,1,100,Battle,damage:10,Cold,10,3,a spell
+Hypnotic Pattern,Normal,1,100,Battle,damage:10,Charmed,10,3,a spell
+Incite Greed,Normal,1,100,Battle,damage:10,Charmed,10,3,a spell
+Intellect Fortress,Normal,1,100,Day,damage:10,Buff,10,3,a spell
+Leomund's Tiny Hut,Normal,1,100,Day,damage:10,Utility,10,3,a spell
+Life Transference,Normal,1,100,Instant,damage:10,Necrotic,10,3,a spell
+Lightning Arrow,Normal,1,100,Battle,damage:10,Lightning,10,3,a spell
+Lightning Bolt,Normal,1,100,Instant,damage:10,Lightning,10,3,a spell
+Magic Circle,Normal,1,100,Day,damage:10,Control,10,3,a spell
+Major Image,Normal,1,100,Battle,damage:10,Control,10,3,a spell
+Mass Healing Word,Normal,1,100,Instant,damage:10,Healing,10,3,a spell
+Meld into Stone,Normal,1,100,Day,damage:10,Movement,10,3,a spell
+Melf's Minute Meteors,Normal,1,100,Battle,damage:10,Fire,10,3,a spell
+Motivational Speech,Normal,1,100,Day,damage:10,Buff,10,3,a spell
+Nondetection,Normal,1,100,Day,damage:10,Deception,10,3,a spell
+Phantom Steed,Normal,1,100,Day,damage:10,Movement,10,3,a spell
+Plant Growth,Normal,1,100,Instant,damage:10,Control,10,3,a spell
+Protection from Energy,Normal,1,100,Day,damage:10,Buff,10,3,a spell
+Pulse Wave,Normal,1,100,Instant,damage:10,Force,10,3,a spell
+Remove Curse,Normal,1,100,Instant,damage:10,Buff,10,3,a spell
+Revivify,Normal,1,100,Instant,damage:10,Healing,10,3,a spell
+Sending,Normal,1,100,Turn,damage:10,Communication,10,3,a spell
+Sleet Storm,Normal,1,100,Battle,damage:10,Prone,10,3,a spell
+Slow,Normal,1,100,Battle,damage:10,Control,10,3,a spell
+Speak with Dead,Normal,1,100,Battle,damage:10,Communication,10,3,a spell
+Speak with Plants,Normal,1,100,Battle,damage:10,Communication,10,3,a spell
+Spirit Guardians,Normal,1,100,Battle,damage:10,Radiant,10,3,a spell
+Sprit Shroud,Normal,1,100,Battle,damage:10,Cold,10,3,a spell
+Stinking Cloud,Normal,1,100,Battle,damage:10,Control,10,3,a spell
+Summon Fey,Normal,1,100,Day,damage:10,Summoning,10,3,a spell
+Summon Lesser Demons,Normal,1,100,Day,damage:10,Summoning,10,3,a spell
+Summon Shadowspawn,Normal,1,100,Day,damage:10,Summoning,10,3,a spell
+Summon Undead,Normal,1,100,Day,damage:10,Summoning,10,3,a spell
+Thunder Step,Normal,1,100,Instant,damage:10,Thunder,10,3,a spell
+Tidal Wave,Normal,1,100,Instant,damage:10,Bludgeoning,10,3,a spell
+Tiny Hut,Normal,1,100,Day,damage:10,Utility,10,3,a spell
+Tiny Servant,Normal,1,100,Day,damage:10,Utility,10,3,a spell
+Tongues,Normal,1,100,Day,damage:10,Communication,10,3,a spell
+Vampiric Touch,Normal,1,100,Battle,damage:10,Necrotic,10,3,a spell
+Wall of Sand,Normal,1,100,Battle,damage:10,Blinded,10,3,a spell
+Wall of Water,Normal,1,100,Battle,damage:10,Control,10,3,a spell
+Water Breathing,Normal,1,100,Day,damage:10,Buff,10,3,a spell
+Water Walk,Normal,1,100,Day,damage:10,Movement,10,3,a spell
+Wind Wall,Normal,1,100,Battle,damage:10,Bludgeoning,10,3,a spell
+Arcane Eye,Normal,1,100,Day,damage:10,Detection,10,4,a spell
+Aura of Life,Normal,1,100,Battle,damage:10,Healing,10,4,a spell
+Aura of Purity,Normal,1,100,Battle,damage:10,Buff,10,4,a spell
+Banishment,Normal,1,100,Battle,damage:10,Banishment,10,4,a spell
+Black Tentacles,Normal,1,100,Battle,damage:10,Bludgeoning,10,4,a spell
+Blight,Normal,1,100,Instant,damage:10,Necrotic,10,4,a spell
+Charm Monster,Normal,1,100,Day,damage:10,Charmed,10,4,a spell
+Compulsion,Normal,1,100,Battle,damage:10,Control,10,4,a spell
+Confusion,Normal,1,100,Battle,damage:10,Control,10,4,a spell
+Conjure Minor Elementals,Normal,1,100,Day,damage:10,Summoning,10,4,a spell
+Conjure Woodland Beings,Normal,1,100,Day,damage:10,Summoning,10,4,a spell
+Control Water,Normal,1,100,Battle,damage:10,Bludgeoning,10,4,a spell
+Death Ward,Normal,1,100,Day,damage:10,Buff,10,4,a spell
+Dimension Door,Normal,1,100,Instant,damage:10,Teleportation,10,4,a spell
+Divination,Normal,1,100,Instant,damage:10,Foreknowledge,10,4,a spell
+Dominate Beast,Normal,1,100,Battle,damage:10,Charmed,10,4,a spell
+Elemental Bane,Normal,1,100,Battle,damage:10,Acid,10,4,a spell
+Evard's Black Tentacles,Normal,1,100,Battle,damage:10,Bludgeoning,10,4,a spell
+Fabricate,Normal,1,100,Instant,damage:10,Creation,10,4,a spell
+Faithful Hound,Normal,1,100,Day,damage:10,Piercing,10,4,a spell
+Find Greater Steed,Normal,1,100,Instant,damage:10,Summoning,10,4,a spell
+Fire Shield,Normal,1,100,Battle,damage:10,Fire,10,4,a spell
+Freedom of Movement,Normal,1,100,Day,damage:10,Buff,10,4,a spell
+Galder's Speedy Courier,Normal,1,100,Battle,damage:10,,10,4,a spell
+Giant Insect,Normal,1,100,Battle,damage:10,Summoning,10,4,a spell
+Grasping Vine,Normal,1,100,Battle,damage:10,Control,10,4,a spell
+Gravity Sinkhole,Normal,1,100,Instant,damage:10,Force,10,4,a spell
+Greater Invisibility,Normal,1,100,Battle,damage:10,Invisible,10,4,a spell
+Guardian of Faith,Normal,1,100,Day,damage:10,Radiant,10,4,a spell
+Guardian of Nature,Normal,1,100,Battle,damage:10,Buff,10,4,a spell
+Hallucinatory Terrain,Normal,1,100,Day,damage:10,Control,10,4,a spell
+Ice Storm,Normal,1,100,Instant,damage:10,Bludgeoning,10,4,a spell
+Leomund's Secret Chest,Normal,1,100,Instant,damage:10,Utility,10,4,a spell
+Locate Creature,Normal,1,100,Day,damage:10,Detection,10,4,a spell
+Mordenkainen's Faithful Hound,Normal,1,100,Day,damage:10,Piercing,10,4,a spell
+Mordenkainen's Private Sanctum,Normal,1,100,Day,damage:10,Control,10,4,a spell
+Otiluke's Resilient Sphere,Normal,1,100,Battle,damage:10,Control,10,4,a spell
+Phantasmal Killer,Normal,1,100,Battle,damage:10,Psychic,10,4,a spell
+Polymorph,Normal,1,100,Day,damage:10,Control,10,4,a spell
+Private Sanctum,Normal,1,100,Day,damage:10,Control,10,4,a spell
+Resiliant Sphere,Normal,1,100,Battle,damage:10,Control,10,4,a spell
+Secret Chest,Normal,1,100,Instant,damage:10,Utility,10,4,a spell
+Shadow of Moil,Normal,1,100,Battle,damage:10,Necrotic,10,4,a spell
+Sickening Radiance,Normal,1,100,Battle,damage:10,Radiant,10,4,a spell
+Staggering Smite,Normal,1,100,Battle,damage:10,Psychic,10,4,a spell
+Stone Shape,Normal,1,100,Instant,damage:10,Control,10,4,a spell
+Stoneskin,Normal,1,100,Day,damage:10,Buff,10,4,a spell
+Storm Sphere,Normal,1,100,Battle,damage:10,Bludgeoning,10,4,a spell
+Summon Aberration,Normal,1,100,Day,damage:10,Summoning,10,4,a spell
+Summon Construct,Normal,1,100,Day,damage:10,Summoning,10,4,a spell
+Summon Elemental,Normal,1,100,Day,damage:10,Summoning,10,4,a spell
+Summon Greater Demon,Normal,1,100,Day,damage:10,Summoning,10,4,a spell
+Vitriolic Sphere,Normal,1,100,Instant,damage:10,Acid,10,4,a spell
+Wall of Fire,Normal,1,100,Battle,damage:10,Fire,10,4,a spell
+Watery Sphere,Normal,1,100,Battle,damage:10,Restrained,10,4,a spell
+Animate Objects,Normal,1,100,Battle,damage:10,Creation,10,5,a spell
+Antilife Shell,Normal,1,100,Day,damage:10,Control,10,5,a spell
+Arcane Hand,Normal,1,100,Battle,damage:10,Force,10,5,a spell
+Awaken,Normal,1,100,Instant,damage:10,Charmed,10,5,a spell
+Banishing Smite,Normal,1,100,Battle,damage:10,Force,10,5,a spell
+Bigby's Hand,Normal,1,100,Battle,damage:10,Force,10,5,a spell
+Circle of Power,Normal,1,100,Battle,damage:10,Buff,10,5,a spell
+Cloudkill,Normal,1,100,Battle,damage:10,Poison,10,5,a spell
+Commune,Normal,1,100,Battle,damage:10,Foreknowledge,10,5,a spell
+Commune with Nature,Normal,1,100,Instant,damage:10,Environment,10,5,a spell
+Cone of Cold,Normal,1,100,Instant,damage:10,Cold,10,5,a spell
+Conjure Elemental,Normal,1,100,Day,damage:10,Summoning,10,5,a spell
+Conjure Volley,Normal,1,100,Instant,damage:10,Additional,10,5,a spell
+Contact Other Plane,Normal,1,100,Battle,damage:10,Communication,10,5,a spell
+Contagion,Normal,1,100,Day,damage:10,Blinded,10,5,a spell
+Control Winds,Normal,1,100,Day,damage:10,Prone,10,5,a spell
+Creation,Normal,1,100,Special,damage:10,Creation,10,5,a spell
+Danse Macabre,Normal,1,100,Day,damage:10,Control,10,5,a spell
+Dawn,Normal,1,100,Battle,damage:10,Radiant,10,5,a spell
+Destructive Wave,Normal,1,100,Instant,damage:10,Thunder,10,5,a spell
+Dispel Evil and Good,Normal,1,100,Battle,damage:10,Charmed,10,5,a spell
+Dominate Person,Normal,1,100,Battle,damage:10,Charmed,10,5,a spell
+Dream,Normal,1,100,Day,damage:10,Communication,10,5,a spell
+Enervation,Normal,1,100,Battle,damage:10,Necrotic,10,5,a spell
+Far Step,Normal,1,100,Battle,damage:10,Teleportation,10,5,a spell
+Flame Strike,Normal,1,100,Instant,damage:10,Fire,10,5,a spell
+Geas,Normal,1,100,Day,damage:10,Charmed,10,5,a spell
+Greater Restoration,Normal,1,100,Instant,damage:10,Healing,10,5,a spell
+Hallow,Normal,1,100,Forever,damage:10,Buff,10,5,a spell
+Hold Monster,Normal,1,100,Battle,damage:10,Paralyzed,10,5,a spell
+Holy Weapon,Normal,1,100,Day,damage:10,Radiant,10,5,a spell
+Immolation,Normal,1,100,Battle,damage:10,Fire,10,5,a spell
+Infernal Calling,Normal,1,100,Day,damage:10,Control,10,5,a spell
+Insect Plague,Normal,1,100,Battle,damage:10,Piercing,10,5,a spell
+Legend Lore,Normal,1,100,Instant,damage:10,Utility,10,5,a spell
+Maelstrom,Normal,1,100,Battle,damage:10,Bludgeoning,10,5,a spell
+Mass Cure Wounds,Normal,1,100,Instant,damage:10,Healing,10,5,a spell
+Mislead,Normal,1,100,Day,damage:10,Deception,10,5,a spell
+Modify Memory,Normal,1,100,Battle,damage:10,Charmed,10,5,a spell
+Negative Energy Flood,Normal,1,100,Instant,damage:10,Necrotic,10,5,a spell
+Passwall,Normal,1,100,Day,damage:10,Control,10,5,a spell
+Planar Binding,Normal,1,100,Day,damage:10,Control,10,5,a spell
+Raise Dead,Normal,1,100,Instant,damage:10,Healing,10,5,a spell
+Rary's Telepathic Bond,Normal,1,100,Day,damage:10,Communication,10,5,a spell
+Reincarnate,Normal,1,100,Instant,damage:10,Healing,10,5,a spell
+Scrying,Normal,1,100,Battle,damage:10,Detection,10,5,a spell
+Seeming,Normal,1,100,Day,damage:10,Control,10,5,a spell
+Skill Empowerment,Normal,1,100,Day,damage:10,Buff,10,5,a spell
+Steel Wind Strike,Normal,1,100,Instant,damage:10,Force,10,5,a spell
+Summon Celestial,Normal,1,100,Day,damage:10,Summoning,10,5,a spell
+Swift Quiver,Normal,1,100,Battle,damage:10,Buff,10,5,a spell
+Synaptic Static,Normal,1,100,Instant,damage:10,Psychic,10,5,a spell
+Telekinesis,Normal,1,100,Battle,damage:10,Control,10,5,a spell
+Telepathic Bond,Normal,1,100,Day,damage:10,Communication,10,5,a spell
+Teleportation Circle,Normal,1,100,Turn,damage:10,Teleportation,10,5,a spell
+Temporal Shunt,Normal,1,100,Turn,damage:10,Banishment,10,5,a spell
+Transmute Rock,Normal,1,100,Forever,damage:10,Bludgeoning,10,5,a spell
+Tree Stride,Normal,1,100,Battle,damage:10,Movement,10,5,a spell
+Wall of Force,Normal,1,100,Battle,damage:10,Control,10,5,a spell
+Wall of Light,Normal,1,100,Battle,damage:10,Radiant,10,5,a spell
+Wall of Stone,Normal,1,100,Battle,damage:10,Control,10,5,a spell
+Wrath of Nature,Normal,1,100,Battle,damage:10,Slashing,10,5,a spell
+Arcane Gate,Normal,1,100,Battle,damage:10,Teleportation,10,6,a spell
+Blade Barrier,Normal,1,100,Battle,damage:10,Slashing,10,6,a spell
+Bones of the Earth,Normal,1,100,Instant,damage:10,Bludgeoning,10,6,a spell
+Chain Lightning,Normal,1,100,Instant,damage:10,Lightning,10,6,a spell
+Circle of Death,Normal,1,100,Instant,damage:10,Necrotic,10,6,a spell
+Conjure Fey,Normal,1,100,Day,damage:10,Summoning,10,6,a spell
+Contingency,Normal,1,100,Day,damage:10,Utility,10,6,a spell
+Create Homunculus,Normal,1,100,Instant,damage:10,Creation,10,6,a spell
+Create Undead,Normal,1,100,Instant,damage:10,Control,10,6,a spell
+Disintegrate,Normal,1,100,Instant,damage:10,Force,10,6,a spell
+Drawmij's Instant Summons,Normal,1,100,Forever,damage:10,Detection,10,6,a spell
+Druid Grove,Normal,1,100,Day,damage:10,Debuff,10,6,a spell
+Eyebite,Normal,1,100,Battle,damage:10,Unconscious,10,6,a spell
+Find the Path,Normal,1,100,Day,damage:10,Detection,10,6,a spell
+Flesh to Stone,Normal,1,100,Battle,damage:10,Petrified,10,6,a spell
+Forbiddance,Normal,1,100,Day,damage:10,Radiant,10,6,a spell
+Freezing Sphere,Normal,1,100,Instant,damage:10,Cold,10,6,a spell
+Globe of Invulnerability,Normal,1,100,Battle,damage:10,Negation,10,6,a spell
+Gravity Fissure,Normal,1,100,Instant,damage:10,Force,10,6,a spell
+Guards and Wards,Normal,1,100,Day,damage:10,Control,10,6,a spell
+Harm,Normal,1,100,Instant,damage:10,Necrotic,10,6,a spell
+Heal,Normal,1,100,Instant,damage:10,Blinded,10,6,a spell
+Heroes' Feast,Normal,1,100,Instant,damage:10,Buff,10,6,a spell
+Instant Summons,Normal,1,100,Forever,damage:10,Detection,10,6,a spell
+Investiture of Flame,Normal,1,100,Battle,damage:10,Fire,10,6,a spell
+Investiture of Ice,Normal,1,100,Battle,damage:10,Cold,10,6,a spell
+Investiture of Stone,Normal,1,100,Battle,damage:10,Prone,10,6,a spell
+Investiture of Wind,Normal,1,100,Battle,damage:10,Bludgeoning,10,6,a spell
+Magic Jar,Normal,1,100,Forever,damage:10,Control,10,6,a spell
+Mass Suggestion,Normal,1,100,Day,damage:10,Control,10,6,a spell
+Mental Prison,Normal,1,100,Battle,damage:10,Psychic,10,6,a spell
+Move Earth,Normal,1,100,Day,damage:10,Control,10,6,a spell
+Otiluke's Freezing Sphere,Normal,1,100,Instant,damage:10,Cold,10,6,a spell
+Otiluke's Freezing Sphere,Normal,1,100,Battle,damage:10,,10,6,a spell
+Otto's Irresistible Dance,Normal,1,100,Battle,damage:10,Control,10,6,a spell
+Planar Ally,Normal,1,100,Instant,damage:10,Summoning,10,6,a spell
+Primordial Ward,Normal,1,100,Battle,damage:10,Warding,10,6,a spell
+Programmed Illusion,Normal,1,100,Forever,damage:10,Control,10,6,a spell
+Scatter,Normal,1,100,Instant,damage:10,Control,10,6,a spell
+Soul Cage,Normal,1,100,Day,damage:10,Buff,10,6,a spell
+Summon Fiend,Normal,1,100,Day,damage:10,Summoning,10,6,a spell
+Sunbeam,Normal,1,100,Battle,damage:10,Radiant,10,6,a spell
+Tasha's Otherworldy Guise,Normal,1,100,Battle,damage:10,Summoning,10,6,a spell
+Tenser's Transformation,Normal,1,100,Battle,damage:10,Buff,10,6,a spell
+Transport via Plants,Normal,1,100,Turn,damage:10,Teleportation,10,6,a spell
+True Seeing,Normal,1,100,Day,damage:10,Detection,10,6,a spell
+Wall of Ice,Normal,1,100,Battle,damage:10,Cold,10,6,a spell
+Wall of Thorns,Normal,1,100,Battle,damage:10,Piercing,10,6,a spell
+Wind Walk,Normal,1,100,Day,damage:10,Buff,10,6,a spell
+Word of Recall,Normal,1,100,Instant,damage:10,Teleportation,10,6,a spell
+Conjure Celestial,Normal,1,100,Day,damage:10,Summoning,10,7,a spell
+Crown of Stars,Normal,1,100,Day,damage:10,Radiant,10,7,a spell
+Delayed Blast Fireball,Normal,1,100,Battle,damage:10,Fire,10,7,a spell
+Divine Word,Normal,1,100,Instant,damage:10,Deafened,10,7,a spell
+Dream of the Blue Veil,Normal,1,100,Battle,damage:10,Buff,10,7,a spell
+Etherealness,Normal,1,100,Day,damage:10,Buff,10,7,a spell
+Finger of Death,Normal,1,100,Instant,damage:10,Necrotic,10,7,a spell
+Fire Storm,Normal,1,100,Instant,damage:10,Fire,10,7,a spell
+Forcecage,Normal,1,100,Day,damage:10,Control,10,7,a spell
+Magnificent Mansion,Normal,1,100,Day,damage:10,Exploration,10,7,a spell
+Mirage Arcane,Normal,1,100,Day,damage:10,Control,10,7,a spell
+Mordenkainen's Magnificent Mansion,Normal,1,100,Day,damage:10,Exploration,10,7,a spell
+Mordenkainen's Sword,Normal,1,100,Battle,damage:10,Force,10,7,a spell
+Plane Shift,Normal,1,100,Instant,damage:10,Banishment,10,7,a spell
+Power Word Pain,Normal,1,100,Instant,damage:10,Debuff,10,7,a spell
+Prismatic Spray,Normal,1,100,Instant,damage:10,Fire,10,7,a spell
+Project Image,Normal,1,100,1 Day,damage:10,Control,10,7,a spell
+Regenerate,Normal,1,100,Day,damage:10,Healing,10,7,a spell
+Resurrection,Normal,1,100,Instant,damage:10,Healing,10,7,a spell
+Reverse Gravity,Normal,1,100,Battle,damage:10,Control,10,7,a spell
+Sequester,Normal,1,100,Forever,damage:10,Deception,10,7,a spell
+Simulacrum,Normal,1,100,Forever,damage:10,Deception,10,7,a spell
+Symbol,Normal,1,100,Forever,damage:10,Necrotic,10,7,a spell
+Teleport,Normal,1,100,Instant,damage:10,Teleportation,10,7,a spell
+Temple of the Gods,Normal,1,100,Day,damage:10,Creation,10,7,a spell
+Tether Essence,Normal,1,100,Day,damage:10,Control,10,7,a spell
+Whirlwind,Normal,1,100,Battle,damage:10,Bludgeoning,10,7,a spell
+Abi-Dalzim's Horrid Wilting,Normal,1,100,Instant,damage:10,Necrotic,10,8,a spell
+Animal Shapes,Normal,1,100,Day,damage:10,Shapechanging,10,8,a spell
+Antimagic Field,Normal,1,100,Day,damage:10,Control,10,8,a spell
+Antipathy/Sympathy,Normal,1,100,Day,damage:10,Frightened,10,8,a spell
+Clone,Normal,1,100,Instant,damage:10,Utility,10,8,a spell
+Control Weather,Normal,1,100,Day,damage:10,Control,10,8,a spell
+Dark Star,Normal,1,100,Battle,damage:10,Force,10,8,a spell
+Demiplane,Normal,1,100,Day,damage:10,Utility,10,8,a spell
+Dominate Monster,Normal,1,100,Day,damage:10,Charmed,10,8,a spell
+Earthquake,Normal,1,100,Battle,damage:10,Bludgeoning,10,8,a spell
+Feeblemind,Normal,1,100,Instant,damage:10,Psychic,10,8,a spell
+Glibness,Normal,1,100,Day,damage:10,Social,10,8,a spell
+Holy Aura,Normal,1,100,Battle,damage:10,Blinded,10,8,a spell
+Illusory Dragon,Normal,1,100,Battle,damage:10,Acid,10,8,a spell
+Incendiary Cloud,Normal,1,100,Battle,damage:10,Fire,10,8,a spell
+Maddening Darkness,Normal,1,100,Battle,damage:10,Psychic,10,8,a spell
+Maze,Normal,1,100,Battle,damage:10,Banishment,10,8,a spell
+Mighty Fortress,Normal,1,100,Instant,damage:10,Utility,10,8,a spell
+Mind Blank,Normal,1,100,Day,damage:10,Buff,10,8,a spell
+Power Word Stun,Normal,1,100,Instant,damage:10,Stunned,10,8,a spell
+Reality Break,Normal,1,100,Battle,damage:10,Control,10,8,a spell
+Sunburst,Normal,1,100,Instant,damage:10,Radiant,10,8,a spell
+Telepathy,Normal,1,100,Day,damage:10,Communication,10,8,a spell
+Tsunami,Normal,1,100,Battle,damage:10,Bludgeoning,10,8,a spell
+Astral Projection,Normal,1,100,Special,damage:10,Teleportation,10,9,a spell
+Blade of Disaster,Normal,1,100,Battle,damage:10,Force,10,9,a spell
+Foresight,Normal,1,100,Day,damage:10,Buff,10,9,a spell
+Gate,Normal,1,100,Battle,damage:10,Control,10,9,a spell
+Imprisonment,Normal,1,100,Forever,damage:10,Restrained,10,9,a spell
+Invulnerability,Normal,1,100,Battle,damage:10,Warding,10,9,a spell
+Mass Heal,Normal,1,100,Instant,damage:10,Blinded,10,9,a spell
+Mass Polymorph,Normal,1,100,Day,damage:10,Control,10,9,a spell
+Meteor Swarm,Normal,1,100,Instant,damage:10,Fire,10,9,a spell
+Power Word Heal,Normal,1,100,Instant,damage:10,Buff,10,9,a spell
+Power Word Kill,Normal,1,100,Instant,damage:10,Control,10,9,a spell
+Prismatic Wall,Normal,1,100,Battle,damage:10,Fire,10,9,a spell
+Psychic Scream,Normal,1,100,Instant,damage:10,Psychic,10,9,a spell
+Ravenous Void,Normal,1,100,Battle,damage:10,Force,10,9,a spell
+Shapechange,Normal,1,100,Day,damage:10,Shapechanging,10,9,a spell
+Storm of Vengeance,Normal,1,100,Battle,damage:10,Thunder,10,9,a spell
+Time Ravage,Normal,1,100,Instant,damage:10,Necrotic,10,9,a spell
+Time Stop,Normal,1,100,Instant,damage:10,Control,10,9,a spell
+True Polymorph,Normal,1,100,Day,damage:10,Buff,10,9,a spell
+True Resurrection,Normal,1,100,Instant,damage:10,Healing,10,9,a spell
+Weird,Normal,1,100,Battle,damage:10,Psychic,10,9,a spell
+Wish,Normal,1,100,Instant,damage:10,Buff,10,9,a spell
+Lightning Ball,Normal,1,100,Instant,damage:10,Buff,10,9,a spell
+Incinerate,Normal,1,100,Instant,damage:10,Buff,10,9,a spell

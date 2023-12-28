@@ -1,0 +1,6 @@
+Trainer Name,Trainer Type,Trainer Pokemons,Items,Coins,Team,Region,Sub Region,Spells,Mana,Max_Health
+Ash,AI,Pikachu:100/Charizard:23/Clefairy:20/Abra:1/Rhydon:50/Squirtle:12,Potion:2/Super Potion:2/Revive:2/Max Revive:2/Fire Stone:2/Water Stone:2/Thunder Stone:2/Leaf Stone:2/Moon Stone:2/PP Up:2/HP Up:2/X Accuracy:2/X Attack:2/X Defense:2/Ether:2/Burn Heal:2/Paralyze Heal:2/Awakening:2/Antidote:2/Rare Candy:200/Pokeball:20/Dire Hit:2/Guard Spec.:2/X Speed:2/Full Restore:2/Max Potion:2/Max Revive:2/Elixir:2/Max Elixir:2/TM01 (Mega Punch):2/TM02 (Pay Day):2,1000,Team Ash,Kanto,Pallet Town,Lightning Ball/Incinerate,100,20
+Gary,AI,Blastoise:14,,1000,Team Ash,Kanto,Pallet Town,Lightning Ball/Incinerate,100,20
+Misty,AI,Squirtle:8/Jigglypuff:10/Meowth:9,,1000,Team Ash,Kanto,Pallet Town,Lightning Ball/Incinerate,100,20
+Brock,AI,Psyduck:11/Geodude:13/Zubat:12,,1000,Team Ash,Kanto,Pallet Town,Lightning Ball/Incinerate,100,20
+Test,AI,Ivysaur:1/Geodude:13/Zubat:12,,1000,Team Ash,Kanto,Pallet Town,Lightning Ball/Incinerate,100,20
